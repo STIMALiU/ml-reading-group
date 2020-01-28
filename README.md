@@ -18,10 +18,11 @@ PhD students who want to earn three course credits (3hp) need to be responsible 
 
 ## Selected topics VT 2020
 
-Feb 4: _Attention_
-Main discussion paper: Xu et al. (2015) Show, Attend and Tell: Neural Image Caption Generation with Visual Attention, https://arxiv.org/abs/1502.03044
+Feb 4: __Attention__
 
-Additional papers:
+_Main discussion paper:_ Xu et al. (2015) Show, Attend and Tell: Neural Image Caption Generation with Visual Attention, https://arxiv.org/abs/1502.03044
+
+_Additional papers:_
 * Bahdanau et al. (2014), Neural Machine Translation by Jointly Learning to Align and Translate, https://arxiv.org/abs/1409.0473
 * Vaswani et al. (2017) Attention Is All You Need, https://arxiv.org/abs/1706.03762
 * Chaudhari et al. (2019) An Attentive Survey of Attention Models, https://arxiv.org/abs/1904.02874
