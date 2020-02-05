@@ -39,9 +39,9 @@ _E.g. Deep GP, Deep Kernel Learning_
 __Apr 14: Gaussian processes + deep learning 2 (AO,AK,JW)__
 _E.g. Deep GP, Deep Kernel Learning_
 
-__Apr 28: Graph Neural Networks 1 (MM, FE)__
+__Apr 28: Graph Neural Networks 1 (MM, FE, JK)__
 
-__May 12: Graph Neural Networks 2 (MM, FE)__
+__May 12: Graph Neural Networks 2 (MM, FE, JK)__
 
 __May 26: ????? 1 (FJL, AR, GH)__
 
