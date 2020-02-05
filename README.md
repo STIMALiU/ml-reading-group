@@ -29,9 +29,9 @@ _Additional papers:_
 
 __Feb 18: Attention 2 (HG)__
 
-__Mar 3: Out-of-distribution 1 (AA,JO)__
+__Mar 3: Out-of-distribution 1 (AA,JO,AE)__
 
-__Mar 17: Out-of-distribution 2 (AA,JO)__
+__Mar 17: Out-of-distribution 2 (AA,JO,AE)__
 
 __Mar 31: Gaussian processes + deep learning 1 (AO,AK,JW)__
 _E.g. Deep GP, Deep Kernel Learning_
