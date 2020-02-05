@@ -18,7 +18,7 @@ PhD students who want to earn three course credits (3hp) need to be responsible 
 
 ## Selected topics VT 2020
 
-Feb 4: __Attention__
+__Feb 4: Attention 1 (FL)__ 
 
 _Main discussion paper:_ Xu et al. (2015) Show, Attend and Tell: Neural Image Caption Generation with Visual Attention, https://arxiv.org/abs/1502.03044
 
@@ -26,3 +26,25 @@ _Additional papers:_
 * Bahdanau et al. (2014), Neural Machine Translation by Jointly Learning to Align and Translate, https://arxiv.org/abs/1409.0473
 * Vaswani et al. (2017) Attention Is All You Need, https://arxiv.org/abs/1706.03762
 * Chaudhari et al. (2019) An Attentive Survey of Attention Models, https://arxiv.org/abs/1904.02874
+
+__Feb 18: Attention 2 (HG)__
+
+__Mar 3: Out-of-distribution 1 (AA,JO)__
+
+__Mar 17: Out-of-distribution 2 (AA,JO)__
+
+__Mar 31: Gaussian processes + deep learning 1 (AO,AK,JW)__
+_E.g. Deep GP, Deep Kernel Learning_
+
+__Apr 14: Gaussian processes + deep learning 2 (AO,AK,JW)__
+_E.g. Deep GP, Deep Kernel Learning_
+
+__Apr 28: Graph Neural Networks 1 (MM, FE)__
+
+__May 12: Graph Neural Networks 2 (MM, FE)__
+
+__May 26: ????? 1 (FJL, AR, GH)__
+
+__Jun 9: ????? 2 (FJL, AR, GH)__
+
+
