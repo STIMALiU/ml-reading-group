@@ -28,6 +28,9 @@ _Additional papers:_
 * Chaudhari et al. (2019) An Attentive Survey of Attention Models, https://arxiv.org/abs/1904.02874
 
 __Feb 18: Attention 2 (HG)__
+_Main discussion paper:_ Vaswani et al. (2017) Attention is All You Need, https://arxiv.org/abs/1706.03762
+
+_Follow-up paper:_ Devlin et al. (2018) BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, https://arxiv.org/abs/1810.04805
 
 __Mar 3: Out-of-distribution 1 (AA,JO,AE)__
 
