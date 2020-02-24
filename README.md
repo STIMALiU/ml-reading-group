@@ -36,7 +36,10 @@ _Follow-up paper:_ Devlin et al. (2018) BERT: Pre-training of Deep Bidirectiona
 __Mar 3: Out-of-distribution 1 (AA,JO)__
 
 _Main discussion paper:_ https://arxiv.org/abs/1807.02588
-_Additional papers:_ https://arxiv.org/abs/1910.04241 and https://arxiv.org/abs/1511.05644
+
+_Additional papers:_ 
+* https://arxiv.org/abs/1910.04241
+* https://arxiv.org/abs/1511.05644
 
 __Mar 17: Out-of-distribution 2 (AE)__
 
