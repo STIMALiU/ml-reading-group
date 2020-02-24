@@ -33,9 +33,12 @@ _Main discussion paper:_ Vaswani et al. (2017) Attention is All You Need, https
 
 _Follow-up paper:_ Devlin et al. (2018) BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, https://arxiv.org/abs/1810.04805
 
-__Mar 3: Out-of-distribution 1 (AA,JO,AE)__
+__Mar 3: Out-of-distribution 1 (AA,JO)__
 
-__Mar 17: Out-of-distribution 2 (AA,JO,AE)__
+_Main discussion paper:_ https://arxiv.org/abs/1807.02588
+_Additional papers:_ https://arxiv.org/abs/1910.04241 and https://arxiv.org/abs/1511.05644
+
+__Mar 17: Out-of-distribution 2 (AE)__
 
 __Mar 31: Gaussian processes + deep learning 1 (AO,AK,JW)__
 _E.g. Deep GP, Deep Kernel Learning_
