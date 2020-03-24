@@ -45,6 +45,16 @@ __Mar 17:__  _Canceled_
 
 __Mar 31: Out-of-distribution 2 (AE)__
 
+_Main discussion paper:_
+* What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?
+https://arxiv.org/abs/1703.04977
+
+_Related papers:_
+* Sampling-free Epistemic Uncertainty Estimation Using Approximated Variance Propagation
+https://arxiv.org/abs/1908.00598
+* Uncertainty Estimates and Multi-Hypotheses Networks for Optical Flow
+https://arxiv.org/abs/1802.07095
+
 __Apr 14: Gaussian processes + deep learning 1 (AO,AK,JW)__
 _E.g. Deep GP, Deep Kernel Learning_
 
