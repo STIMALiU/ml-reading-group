@@ -41,20 +41,22 @@ _Additional papers:_
 * https://arxiv.org/abs/1910.04241
 * https://arxiv.org/abs/1511.05644
 
-__Mar 17: Out-of-distribution 2 (AE)__
+__Mar 17:__  _Canceled_
 
-__Mar 31: Gaussian processes + deep learning 1 (AO,AK,JW)__
+__Mar 31: Out-of-distribution 2 (AE)__
+
+__Apr 14: Gaussian processes + deep learning 1 (AO,AK,JW)__
 _E.g. Deep GP, Deep Kernel Learning_
 
-__Apr 14: Gaussian processes + deep learning 2 (AO,AK,JW)__
+__Apr 28: Gaussian processes + deep learning 2 (AO,AK,JW)__
 _E.g. Deep GP, Deep Kernel Learning_
 
-__Apr 28: Graph Neural Networks 1 (MM, FE, JK)__
+__May 12: Graph Neural Networks 1 (MM, FE, JK)__
 
-__May 12: Graph Neural Networks 2 (MM, FE, JK)__
+__May 26: Graph Neural Networks 2 (MM, FE, JK)__
 
-__May 26: ????? 1 (FJL, AR, GH)__
+__Jun 9: ????? 1 (FJL, AR, GH)__
 
-__Jun 9: ????? 2 (FJL, AR, GH)__
+__Jun 23: ????? 2 (FJL, AR, GH)__
 
 
