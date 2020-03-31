@@ -1,0 +1,18 @@
+13:55:53	 From  Jose M Peña : Hej,
+
+här kommer artikeln om dropout
+
+https://arxiv.org/pdf/1506.02142.pdf
+
+samt lite diskussion 
+
+https://www.reddit.com/r/MachineLearning/comments/7bm4b2/d_what_is_the_current_state_of_dropout_as/
+
+on en artikel som verkar visa att dropout inte funkar bra i vissa fall
+
+http://bayesiandeeplearning.org/2016/papers/BDL_4.pdf
+14:08:16	 From  Abdelrahman Eldesokey : https://arxiv.org/pdf/1909.12297.pdf
+14:22:12	 From  Josef Wilzén : Need to leave, Thanks for the presentation! 
+14:25:20	 From  Fredrik Lindsten : I Think this is the paper https://arxiv.org/abs/1803.05407
+14:25:40	 From  Jose M Peña : http://auai.org/uai2018/proceedings/papers/313.pdf
+14:34:57	 From  Fredrik Lindsten : Empirical evaluation of some Bayesian/ensemble methods for OOD detection https://arxiv.org/abs/1906.02530
