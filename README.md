@@ -58,6 +58,13 @@ https://arxiv.org/abs/1802.07095
 __Apr 14: Gaussian processes + deep learning 1 (AO,AK,JW)__
 _E.g. Deep GP, Deep Kernel Learning_
 
+_Main discussion paper:_
+* Deep Kernel Learning http://proceedings.mlr.press/v51/wilson16.pdf.
+
+_Related papers:_
+* Gaussian Process Kernels for Pattern Discovery and Extrapolation http://proceedings.mlr.press/v28/wilson13.pdf (explaining the spectral mixture base kernel)
+* Kernel Interpolation for Scalable Structured Gaussian Processes (KISS-GP)  http://proceedings.mlr.press/v37/wilson15.pdf (explaining the KISS-GP approach used for covariance approximation)
+
 __Apr 28: Gaussian processes + deep learning 2 (AO,AK,JW)__
 _E.g. Deep GP, Deep Kernel Learning_
 
