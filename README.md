@@ -68,6 +68,13 @@ _Related papers:_
 __Apr 28: Gaussian processes + deep learning 2 (AO,AK,JW)__
 _E.g. Deep GP, Deep Kernel Learning_
 
+* Stochastic Variational Deep Kernel Learning https://papers.nips.cc/paper/6426-stochastic-variational-deep-kernel-learning.pdf
+* Learning Scalable Deep Kernels with Recurrent Structure http://jmlr.org/papers/volume18/16-498/16-498.pdf
+
+If you are interested in learning more about LSTMs (for the second paper), you could also have a look at:
+https://www.researchgate.net/publication/13853244_Long_Short-term_Memory
+
+
 __May 12: Graph Neural Networks 1 (MM, FE, JK)__
 
 __May 26: Graph Neural Networks 2 (MM, FE, JK)__
