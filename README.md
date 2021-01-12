@@ -11,12 +11,14 @@ The reading group is open to anyone who is interested in machine leraning and wh
 
 PhD students who want to earn three course credits (3hp) need to be responsible for one session/topic, and actively participate in at least 70 % of the sessions.
 
-## Dates VT 2020
-- First meeting (brainstorming session) on Jan 21.
-- First regular session on Feb 4.
-- In total 10 regular sessions (even weeks throughout the semester). You need to attend at least 7 of these to earn the course credits.
+## Dates VT 2021
+- First meeting (brainstorming session) on Jan 19.
+- First regular session on Feb 2.
+- In total 10 regular sessions (odd weeks throughout the semester). You need to attend at least 7 of these to earn the course credits.
 
-## Selected topics VT 2020
+## Selected topics VT 2021
+
+## Topics discussed VT 2020
 
 __Feb 4: Attention 1 (FL)__ 
 
@@ -77,10 +79,39 @@ https://www.researchgate.net/publication/13853244_Long_Short-term_Memory
 
 __May 12: Graph Neural Networks 1 (MM, FE, JK)__
 
+* Main paper: Semi-Supervised Classification with Graph Convolutional Networks https://arxiv.org/abs/1609.02907
+
+* Additional reading/background paper: Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering https://papers.nips.cc/paper/6081-convolutional-neural-networks-on-graphs-with-fast-localized-spectral-filtering.pdf
+
+ 
 __May 26: Graph Neural Networks 2 (MM, FE, JK)__
 
-__Jun 9: ????? 1 (FJL, AR, GH)__
 
-__Jun 23: ????? 2 (FJL, AR, GH)__
+* Main paper: How Powerful are Graph Neural Networks? https://cs.stanford.edu/people/jure/pubs/gin-iclr19.pdf
 
+* Additional reading/background paper: Inductive Representation Learning on Large Graphs https://cs.stanford.edu/people/jure/pubs/graphsage-nips17.pdf
+
+
+
+__Jun 9: Normalizing flows and GANs 1 (FJL, AR, GH)__
+
+* Normalizing Flows: An Introduction and Review of Current Methods
+https://arxiv.org/abs/1908.09257
+
+* Glow: Generative Flow with Invertible 1x1 Convolutions
+http://papers.nips.cc/paper/8224-glow-generative-flow-with-invertible-1x1-con
+
+
+__Jun 23: Normalizing flows and GANs 2 (FJL, AR, GH)__
+
+* Improved Training of Wasserstein GANs
+https://papers.nips.cc/paper/7159-improved-training-of-wasserstein-gans
+
+GAN background papers:
+
+* Generative adversarial nets
+http://papers.nips.cc/paper/5423-generative-adversarial-nets
+
+* Wasserstein Generative Adversarial Networks
+http://proceedings.mlr.press/v70/arjovsky17a.html
 
