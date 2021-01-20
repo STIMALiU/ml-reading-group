@@ -2,12 +2,13 @@
 The reading group is open to anyone who is interested in machine leraning and who wants to meet up regularly to discuss ML research papers. Students who actively participate in the reading group can also take it as a PhD course worth 3 credits for one semester (details below).
 
 ## Format
-- We meet bi-weekly on Tuesdays 13:15-15:00 throughout the semester to discuss papers in machine learning.
+- We meet (roughly) bi-weekly on Tuesdays 13:15-15:00 throughout the semester to discuss papers in machine learning.
 - The paper selection is based on certain topics that we decide on together during the first session (a brainstorming session), so the topics covered during each semester (i.e. course instance) will be based on the participants' interests. We will stick with one topic for two consecutive sessions.
 - Two people will share the responsibility for selecting good and representative papers for each topic. You can either collaborate on the two sessions, or take one session each.
 - Each session we will have one main paper that everyone should read, and possibly a few more related papers.
 - Each session will start with a presentation by the person(s) who is responsible for that session, focusing on putting the main paper in a context. For instance, you can present the key idea of the main paper and how this differs from the related papers that you have picked. 
-- The presentation is followed by a discussion. 
+- The presentation is followed by a discussion.
+- If you present on week X, inform Fredrik about your selected paper(s) no later than Friday noon on week X-2. Everyone else will be notified on Tuesday on week X-1 (at the latest), giving you one week to read the paper(s) before the discssion.
 
 PhD students who want to earn three course credits (3hp) need to be responsible for one session/topic, and actively participate in at least 70 % of the sessions.
 
@@ -17,6 +18,46 @@ PhD students who want to earn three course credits (3hp) need to be responsible 
 - In total 10 regular sessions (odd weeks throughout the semester). You need to attend at least 7 of these to earn the course credits.
 
 ## Selected topics VT 2021
+
+__Week 5 (Feb 2): Meta-learning / few-shot learning__
+_- Responsible:_ FE, AmA
+
+__Week 7 (Feb 16): Meta-learning / few-shot learning__
+_- Responsible:_ FE, AmA
+
+
+__Week 9 (Mar 2): Explainability/interpretability__
+_- Responsible:_ JF, HM
+
+
+__Week 12 (Mar 23): Explainability/interpretability__
+_- Responsible:_ JF, HM
+
+
+__Week 14 (Apr 6): Self-supervised learning / contrastive learning__
+_- Responsible:_ AzA, JO
+
+
+__Week 16 (Apr 20): Self-supervised learning / contrastive learning__
+_- Responsible:_ AzA, JO
+
+
+__Week 18 (May 4): Normalizing flows (for variational inference)__
+_- Responsible:_ SB, HG
+
+
+__Week 20 (May 18): Normalizing flows (for variational inference)__
+_- Responsible:_ SB, HG
+
+
+__Week 22 (Jun 1): Time series forecasting with ML__
+_- Responsible:_ JW, MFS
+
+
+__Week 24 (Jun 15): Time series forecasting with ML__
+_- Responsible:_ JW, MFS
+
+
 
 ## Topics discussed VT 2020
 
