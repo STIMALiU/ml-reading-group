@@ -22,6 +22,14 @@ PhD students who want to earn three course credits (3hp) need to be responsible 
 __Week 5 (Feb 2): Meta-learning / few-shot learning__
 _- Responsible:_ FE, AmA
 
+Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
+<br>
+Chelsea Finn, Pieter Abbeel, Sergey Levine
+<br>
+Proceedings of the 34th International Conference on Machine Learning, PMLR 70:1126-1135, 2017.
+<br>
+http://proceedings.mlr.press/v70/finn17a.html
+
 __Week 7 (Feb 16): Meta-learning / few-shot learning__
 _- Responsible:_ FE, AmA
 
