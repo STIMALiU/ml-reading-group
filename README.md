@@ -33,6 +33,15 @@ http://proceedings.mlr.press/v70/finn17a.html
 __Week 7 (Feb 16): Meta-learning / few-shot learning__
 _- Responsible:_ FE, AmA
 
+Infinite Mixture Prototypes for Few-Shot Learning
+<br>
+Kelsey R. Allen, Evan Shelhamer, Hanul Shin, Joshua B. Tenenbaum
+<br>
+International Conference on Machine Learning (ICML), 2019
+<br>
+http://proceedings.mlr.press/v97/allen19b/allen19b.pdf
+
+
 
 __Week 9 (Mar 2): Explainability/interpretability__
 _- Responsible:_ JF, HM
