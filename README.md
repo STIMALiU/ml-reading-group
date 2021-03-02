@@ -46,6 +46,12 @@ http://proceedings.mlr.press/v97/allen19b/allen19b.pdf
 __Week 9 (Mar 2): Explainability/interpretability__
 _- Responsible:_ JF, HM
 
+Neural Additive Models: Interpretable Machine Learning with Neural Nets
+<br>
+International Conference on Machine Learning (ICML), 2020
+<br>
+https://arxiv.org/abs/2004.13912
+
 
 __Week 12 (Mar 23): Explainability/interpretability__
 _- Responsible:_ JF, HM
