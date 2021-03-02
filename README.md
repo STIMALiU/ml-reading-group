@@ -48,8 +48,6 @@ _- Responsible:_ JF, HM
 
 Neural Additive Models: Interpretable Machine Learning with Neural Nets
 <br>
-International Conference on Machine Learning (ICML), 2020
-<br>
 https://arxiv.org/abs/2004.13912
 
 
