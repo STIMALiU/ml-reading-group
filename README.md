@@ -53,6 +53,13 @@ https://arxiv.org/abs/2004.13912
 
 __Week 12 (Mar 23): Explainability/interpretability__
 _- Responsible:_ JF, HM
+Understanding Black-box Predictions via Influence Functions
+<br>
+Pang Wei Koh, Percy Liang
+<br>
+Proceedings of the 34th International Conference on Machine Learning, PMLR 70:1885-1894, 2017.
+<br>
+http://proceedings.mlr.press/v70/koh17a.html
 
 
 __Week 14 (Apr 6): Self-supervised learning / contrastive learning__
