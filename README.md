@@ -88,15 +88,15 @@ __Week 18 (May 4): Normalizing flows (for variational inference)__
 _- Responsible:_ SB, HG
 
 
-__Week 20 (May 25): Normalizing flows (for variational inference)__
+__Week 21 (May 25): Normalizing flows (for variational inference)__
 _- Responsible:_ SB, HG
 
 
-__Week 22 (Jun 8): Time series forecasting with ML__
+__Week 23 (Jun 8): Time series forecasting with ML__
 _- Responsible:_ JW, MFS
 
 
-__Week 24 (Jun 22): Time series forecasting with ML__
+__Week 25 (Jun 22): Time series forecasting with ML__
 _- Responsible:_ JW, MFS
 
 
