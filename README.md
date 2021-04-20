@@ -65,24 +65,38 @@ http://proceedings.mlr.press/v70/koh17a.html
 __Week 14 (Apr 6): Self-supervised learning / contrastive learning__
 _- Responsible:_ AzA, JO
 
+_Main paper:_ <br>
+Representation Learning with Contrastive Predictive Coding<br>
+Aaron van den Oord, Yazhe Li, Oriol Vinyals<br>
+https://arxiv.org/abs/1807.03748
+
+_Additional paper:_<br>
+On Mutual Information Maximization for Representation Learning <br>
+Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic<br>
+https://arxiv.org/abs/1907.13625<br>
+
 
 __Week 16 (Apr 20): Self-supervised learning / contrastive learning__
 _- Responsible:_ AzA, JO
+
+A Simple Framework for Contrastive Learning of Visual Representations
+<br>
+https://arxiv.org/pdf/2002.05709.pdf
 
 
 __Week 18 (May 4): Normalizing flows (for variational inference)__
 _- Responsible:_ SB, HG
 
 
-__Week 20 (May 18): Normalizing flows (for variational inference)__
+__Week 20 (May 25): Normalizing flows (for variational inference)__
 _- Responsible:_ SB, HG
 
 
-__Week 22 (Jun 1): Time series forecasting with ML__
+__Week 22 (Jun 8): Time series forecasting with ML__
 _- Responsible:_ JW, MFS
 
 
-__Week 24 (Jun 15): Time series forecasting with ML__
+__Week 24 (Jun 22): Time series forecasting with ML__
 _- Responsible:_ JW, MFS
 
 
