@@ -87,6 +87,10 @@ https://arxiv.org/pdf/2002.05709.pdf
 __Week 18 (May 4): Normalizing flows (for variational inference)__
 _- Responsible:_ SB, HG
 
+SurVAE Flows: Surjections to Bridge the Gap between VAEs and Flows (https://arxiv.org/pdf/2007.02731.pdf)
+<br>
+Didrik Nielsen, Priyank Jaini, Emiel Hoogeboom, Ole Winther, Max Welling
+
 
 __Week 21 (May 25): Normalizing flows (for variational inference)__
 _- Responsible:_ SB, HG
