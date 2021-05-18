@@ -95,6 +95,14 @@ Didrik Nielsen, Priyank Jaini, Emiel Hoogeboom, Ole Winther, Max Welling
 __Week 21 (May 25): Normalizing flows (for variational inference)__
 _- Responsible:_ SB, HG
 
+Wehenkel, Antoine, and Gilles Louppe. "Graphical normalizing flows."
+<br>
+In International Conference on Artificial Intelligence and Statistics, pp. 37-45. PMLR, 2021.
+<br>
+Link : http://proceedings.mlr.press/v130/wehenkel21a/wehenkel21a.pdf
+
+
+
 
 __Week 23 (Jun 8): Time series forecasting with ML__
 _- Responsible:_ JW, MFS
