@@ -107,6 +107,17 @@ Link : http://proceedings.mlr.press/v130/wehenkel21a/wehenkel21a.pdf
 __Week 23 (Jun 8): Time series forecasting with ML__
 _- Responsible:_ JW, MFS
 
+Title: "A Hybrid Method for Exponential Smoothing and Recurrent Neural Networks for the Time Series Forecasting."
+<br>
+Link: https://www.sciencedirect.com/science/article/pii/S0169207019301153
+<br><br>
+This paper is a part of a contest (https://en.wikipedia.org/wiki/Makridakis_Competitions); it does not contain a comparison with other models or result sections! For the comparison and result sections, please see Table -1 & 2 from the following paper.
+<br><br>
+Title: "The M4 Competition: Results, Findings, Conclusion and Way Forward."
+<br>
+Link: https://www.sciencedirect.com/science/article/pii/S0169207018300785
+
+
 
 __Week 25 (Jun 22): Time series forecasting with ML__
 _- Responsible:_ JW, MFS
