@@ -104,7 +104,7 @@ Link : http://proceedings.mlr.press/v130/wehenkel21a/wehenkel21a.pdf
 
 
 
-__Week 23 (Jun 8): Time series forecasting with ML__
+__Week 25 (Jun 22): Time series forecasting with ML__
 _- Responsible:_ JW, MFS
 
 Title: "A Hybrid Method for Exponential Smoothing and Recurrent Neural Networks for the Time Series Forecasting."
@@ -119,7 +119,7 @@ Link: https://www.sciencedirect.com/science/article/pii/S0169207018300785
 
 
 
-__Week 25 (Jun 22): Time series forecasting with ML__
+__Week ?? (Jun ??): Time series forecasting with ML__
 _- Responsible:_ JW, MFS
 
 
