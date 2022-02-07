@@ -38,7 +38,7 @@ __Week 19 (May 11)__
 _- Host:_ Anton
 
 __Week 21 (May 25)__
-_- Host:_ TBA
+_- Host:_ Magnus
 
 __Week 23 (Jun 8)__
 _- Host:_ TBA
