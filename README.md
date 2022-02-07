@@ -1,23 +1,52 @@
 # STIMA Machine Learning Reading Group
-The reading group is open to anyone who is interested in machine leraning and who wants to meet up regularly to discuss ML research papers. Students who actively participate in the reading group can also take it as a PhD course worth 3 credits for one semester (details below).
+The reading group is open to anyone who is interested in machine learning and who wants to meet up regularly to discuss ML research papers.
 
 ## Format
-- We meet (roughly) bi-weekly on Tuesdays 13:15-15:00 throughout the semester to discuss papers in machine learning.
-- The paper selection is based on certain topics that we decide on together during the first session (a brainstorming session), so the topics covered during each semester (i.e. course instance) will be based on the participants' interests. We will stick with one topic for two consecutive sessions.
-- Two people will share the responsibility for selecting good and representative papers for each topic. You can either collaborate on the two sessions, or take one session each.
-- Each session we will have one main paper that everyone should read, and possibly a few more related papers.
-- Each session will start with a presentation by the person(s) who is responsible for that session, focusing on putting the main paper in a context. For instance, you can present the key idea of the main paper and how this differs from the related papers that you have picked. 
-- The presentation is followed by a discussion.
-- If you present on week X, inform Fredrik about your selected paper(s) no later than Friday noon on week X-2. Everyone else will be notified on Tuesday on week X-1 (at the latest), giving you one week to read the paper(s) before the discssion.
+* One person is randomly designated the host for each session. They are responsible for choosing the paper to be discussed and for leading the discussion during the session. The host does not need to know the paper better than everyone else and does not need to prepare any presentation for the session.
+* We meet Wednesdays 10:15-12:00 on odd weeks.
+* We will meet in Thomas Bayes, B-building ([map](https://www.ida.liu.se/department/location/search.en.shtml?keyword=thomas+bayes)).
 
-PhD students who want to earn three course credits (3hp) need to be responsible for one session/topic, and actively participate in at least 70 % of the sessions.
+## Host intstructions
+* Choose a paper that you think would be interesting to discuss in the reading group. In order to set a focus for the reading group we came up with the following short guidelines for how to choose papers:
+  * The main topic of the paper should be core machine learning research. Try to avoid papers that just apply well known machine learning methods to specific application areas. 
+  * Make sure the paper is of high quality. Read through it yourself and try to gauge its quality. As a guideline, think that it should be publishable at a top machine learning conference (i.e. the paper should be of such quality, it does not have to actually be a short conference paper).
+  * If you want a second opinion on whether a paper is suitable feel free to ask me or anyone else who has been in the reading group previous years.
+* Send out a link to the paper on the mailing list at least one week in advance.
+* As the host it is also good to somewhat lead the discussion during the session. If you want you can give a short description of why you chose this paper, but there is no need for any proper presentation. It might be a good idea to come to the session prepared with a few discussion points, just to keep the conversation going.
 
-## Dates VT 2021
-- First meeting (brainstorming session) on Jan 19.
-- First regular session on Feb 2.
-- In total 10 regular sessions (odd weeks throughout the semester). You need to attend at least 7 of these to earn the course credits.
+## Schedule
 
-## Selected topics VT 2021
+__Week 7 (Feb 16)__
+_- Host:_ Amanda
+
+__Week 9 (Mar 2)__
+_- Host:_ Filip
+
+__Week 11 (Mar 16)__
+_- Host:_ Fredrik
+
+__Week 13 (Mar 30)__
+_- Host:_ Josef
+
+__Week 15 (Apr 13)__
+_- Host:_ Joel
+
+__Week 17 (Apr 27)__
+_- Host:_ Per
+
+__Week 19 (May 11)__
+_- Host:_ Anton
+
+__Week 21 (May 25)__
+_- Host:_ TBA
+
+__Week 23 (Jun 8)__
+_- Host:_ TBA
+
+__Week 25 (Jun 22)__
+_- Host:_ TBA
+
+## Topics Discussed VT 2021
 
 __Week 5 (Feb 2): Meta-learning / few-shot learning__
 _- Responsible:_ FE, AmA
@@ -123,6 +152,10 @@ __Week ?? (Jun ??): Time series forecasting with ML__
 _- Responsible:_ JW, MFS
 
 
+Probabilistic forecasting with temporal convolutional neural network<br>
+Yitian Chen, Yanfei Kang, Yixiong Chen, Zizhuo Wang
+<br>
+Link: https://www.sciencedirect.com/science/article/abs/pii/S0925231220303441
 
 ## Topics discussed VT 2020
 
