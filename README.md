@@ -19,6 +19,12 @@ The reading group is open to anyone who is interested in machine learning and wh
 __Week 7 (Feb 16)__
 _- Host:_ Amanda
 
+*This Looks Like That: Deep Learning for Interpretable Image Recognition*
+<br>
+Chaofan Chen, Oscar Li, Daniel Tao, Alina Barnett, Cynthia Rudin, Jonathan K. Su
+<br>
+https://papers.nips.cc/paper/2019/hash/adf7ee2dcf142b0e11888e72b43fcb75-Abstract.html
+
 __Week 9 (Mar 2)__
 _- Host:_ Filip
 
