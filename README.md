@@ -47,7 +47,7 @@ __Week 21 (May 25)__
 _- Host:_ Magnus
 
 __Week 23 (Jun 8)__
-_- Host:_ TBA
+_- Host:_ Hariprasath
 
 __Week 25 (Jun 22)__
 _- Host:_ TBA
