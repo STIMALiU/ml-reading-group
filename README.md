@@ -28,6 +28,12 @@ https://papers.nips.cc/paper/2019/hash/adf7ee2dcf142b0e11888e72b43fcb75-Abstract
 __Week 9 (Mar 2)__
 _- Host:_ Filip
 
+*Generative Modeling by Estimating Gradients of the Data Distribution*
+<br>
+Yang Song, Stefano Ermon
+<br>
+https://arxiv.org/abs/1907.05600
+
 __Week 11 (Mar 16)__
 _- Host:_ Fredrik
 
