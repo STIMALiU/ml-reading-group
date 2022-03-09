@@ -37,6 +37,26 @@ https://arxiv.org/abs/1907.05600
 __Week 11 (Mar 16)__
 _- Host:_ Fredrik
 
+*Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation*
+<br>
+Emmanuel Bengio, Moksh Jain, Maksym Korablyov, Doina Precup, Yoshua Bengio
+<br>
+https://papers.nips.cc/paper/2021/hash/e614f646836aaed9f89ce58e837e2310-Abstract.html
+
+*Some related papers:*
+<br>
+* [GFlowNet Foundations paper](https://arxiv.org/abs/2111.09266) Yoshua Bengio, Tristan Deleu, Edward J. Hu, Salem Lahlou, Mo Tiwari, Emmanuel Bengio, "GFlowNet Foundations", arXiv:2111.09266, November 2021.
+  * A longer paper introducing the model, underlying theory and various extensions
+
+* [Trajectory Balance paper](https://arxiv.org/abs/2201.13259) Nikolay Malkin, Moksh Jain, Emmanuel Bengio, Chen Sun, Yoshua Bengio, “Trajectory Balance: Improved Credit Assignment in GFlowNets", arXiv:2201.13259, January 2022.
+  * Here they introduce a more efficient training objective for the model.
+
+* [Energy-Based GFlowNet paper](https://arxiv.org/abs/2202.01361) Dinghuai Zhang, Nikolay Malkin, Zhen Liu, Alexandra Volokhova, Aaron Courville, Yoshua Bengio, “Generative Flow Networks for Discrete Probabilistic Modeling", arXiv:2202.01361, February 2022.
+  * Here they show how the GFlowNet model can be combined with an EBM to learn the energy function/target distribution from data. They also discuss how to build an efficient MCMC proposal for discrete spaces using the learnt GFlowNet.
+
+* [Causal Graph Bayesian Posterior paper](https://arxiv.org/abs/2202.13903) Tristan Deleu, António Góis, Chris Emezue, Mansi Rankawat, Simon Lacoste-Julien, Stefan Bauer, Yoshua Bengio, “Bayesian Structure Learning with Generative Flow Networks", arXiv:2202.13903, February 2022.
+  * Here they use the method for learning a Bayesian network
+
 __Week 13 (Mar 30)__
 _- Host:_ Josef
 
