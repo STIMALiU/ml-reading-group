@@ -60,6 +60,24 @@ https://papers.nips.cc/paper/2021/hash/e614f646836aaed9f89ce58e837e2310-Abstract
 __Week 13 (Mar 30)__
 _- Host:_ Josef
 
+*Dangers of Bayesian Model Averaging under Covariate Shift*
+<br>
+Pavel Izmailov, Patrick Nicholson, Sanae Lotfi, Andrew G. Wilson
+<br>
+https://proceedings.neurips.cc/paper/2021/hash/1ab60b5e8bd4eac8a7537abb5936aadc-Abstract.html \+ Supplemental
+
+*Some related papers:*
+
+* [What are bayesian neural network posteriors really like?](https://proceedings.mlr.press/v139/izmailov21a.html) Details on HMC sampling of the posterior in the main paper can be found here.
+* Priors for Bayesian neural networks:
+  * [Bayesian Neural Network Priors Revisited](https://arxiv.org/abs/2102.06571)
+  * [Priors in Bayesian Deep Learning: A Review](https://arxiv.org/abs/2105.06868)
+* Some background on covariate shift/domain shift:
+  * [Domain Adaptation for Statistical Classifiers](https://www.jair.org/index.php/jair/article/view/10454)
+  * [Out of Distribution Generalization in Machine Learning](https://arxiv.org/abs/2103.02667)
+  * [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://arxiv.org/abs/1903.12261)
+
+
 __Week 15 (Apr 13)__
 _- Host:_ Joel
 
