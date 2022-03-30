@@ -66,6 +66,8 @@ Pavel Izmailov, Patrick Nicholson, Sanae Lotfi, Andrew G. Wilson
 <br>
 https://proceedings.neurips.cc/paper/2021/hash/1ab60b5e8bd4eac8a7537abb5936aadc-Abstract.html \+ Supplemental
 
+Our rating : 3.17 ± 0.37
+
 *Some related papers:*
 
 * [What are bayesian neural network posteriors really like?](https://proceedings.mlr.press/v139/izmailov21a.html) Details on HMC sampling of the posterior in the main paper can be found here.
