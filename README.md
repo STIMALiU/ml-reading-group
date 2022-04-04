@@ -83,6 +83,16 @@ Our rating : 3.17 ± 0.37
 __Week 15 (Apr 13)__
 _- Host:_ Joel
 
+*The Neural Hawkes Process: A Neurally Self-Modulating Multivariate Point Process*
+<br>
+Hongyuan Mei, Jason Eisner
+<br>
+https://arxiv.org/abs/1612.09328
+
+*Some related papers:*
+  * [Neural Jump Stochastic Differential Equations](https://arxiv.org/abs/1905.10403)
+  * [Neural Spatio-Temporal Point Processes](https://arxiv.org/abs/2011.04583)
+
 __Week 17 (Apr 27)__
 _- Host:_ Per
 
