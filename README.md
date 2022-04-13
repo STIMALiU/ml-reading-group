@@ -89,6 +89,8 @@ Hongyuan Mei, Jason Eisner
 <br>
 https://arxiv.org/abs/1612.09328
 
+Our rating : 3.00 ± 0.53
+
 *Some related papers:*
   * [Neural Jump Stochastic Differential Equations](https://arxiv.org/abs/1905.10403)
   * [Neural Spatio-Temporal Point Processes](https://arxiv.org/abs/2011.04583)
