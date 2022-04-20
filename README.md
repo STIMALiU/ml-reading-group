@@ -98,6 +98,16 @@ Our rating : 3.00 ± 0.53
 __Week 17 (Apr 27)__
 _- Host:_ Per
 
+*Posterior Network: Uncertainty Estimation without OOD Samples via Density-Based Pseudo-Counts*
+<br>
+Bertrand Charpentier, Daniel Zügner, Stephan Günnemann
+<br>
+https://proceedings.neurips.cc/paper/2020/hash/0eac690d7059a8de4b48e90f14510391-Abstract.html
+
+*Some related papers:*
+  * [Predictive Uncertainty Estimation via Prior Networks](https://proceedings.neurips.cc/paper/2018/hash/3ea2db50e62ceefceaf70a9d9a56a6f4-Abstract.html)
+  * [Natural Posterior Network: Deep Bayesian Uncertainty for Exponential Family Distributions](https://arxiv.org/abs/2105.04471) 
+
 __Week 19 (May 11)__
 _- Host:_ Anton
 
