@@ -113,6 +113,12 @@ Our rating : 3.57 ± 049
 __Week 19 (May 11)__
 _- Host:_ Anton
 
+*Spatio-Temporal Variational Gaussian Processes*
+<br>
+Oliver Hamelijnck, William Wilkinson, Niki Loppi, Arno Solin, Theodoros Damoulas
+<br>
+https://proceedings.neurips.cc/paper/2021/hash/c6b8c8d762da15fa8dbbdfb6baf9e260-Abstract.html
+
 __Week 21 (May 25)__
 _- Host:_ Magnus
 
