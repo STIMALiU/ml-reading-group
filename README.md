@@ -10,7 +10,7 @@ The reading group is open to anyone who is interested in machine learning and wh
 * Choose a paper that you think would be interesting to discuss in the reading group. In order to set a focus for the reading group we came up with the following short guidelines for how to choose papers:
   * The main topic of the paper should be core machine learning research. Try to avoid papers that just apply well known machine learning methods to specific application areas. 
   * Make sure the paper is of high quality. Read through it yourself and try to gauge its quality. As a guideline, think that it should be publishable at a top machine learning conference (i.e. the paper should be of such quality, it does not have to actually be a short conference paper).
-  * If you want a second opinion on whether a paper is suitable feel free to ask me or anyone else who has been in the reading group previous years.
+  * If you want a second opinion on whether a paper is suitable feel free to ask anyone who has been in the reading group previous years.
 * Send out a link to the paper on the mailing list at least one week in advance.
 * As the host it is also good to somewhat lead the discussion during the session. If you want you can give a short description of why you chose this paper, but there is no need for any proper presentation. It might be a good idea to come to the session prepared with a few discussion points, just to keep the conversation going.
 
@@ -121,6 +121,12 @@ https://proceedings.neurips.cc/paper/2021/hash/c6b8c8d762da15fa8dbbdfb6baf9e260-
 
 __Week 21 (May 25)__
 _- Host:_ Magnus
+
+*A Simple Baseline for Bayesian Uncertainty in Deep Learning*
+<br>
+Wesley J. Maddox, Pavel Izmailov, Timur Garipov, Dmitry P. Vetrov, Andrew Gordon Wilson
+<br>
+https://proceedings.neurips.cc/paper/2019/hash/118921efba23fc329e6560b27861f0c2-Abstract.html
 
 __Week 23 (Jun 8)__
 _- Host:_ Hariprasath
