@@ -104,7 +104,7 @@ Bertrand Charpentier, Daniel Zügner, Stephan Günnemann
 <br>
 https://proceedings.neurips.cc/paper/2020/hash/0eac690d7059a8de4b48e90f14510391-Abstract.html
 
-Our rating : 3.57 ± 049
+Our rating : 3.57 ± 0.49
 
 *Some related papers:*
   * [Predictive Uncertainty Estimation via Prior Networks](https://proceedings.neurips.cc/paper/2018/hash/3ea2db50e62ceefceaf70a9d9a56a6f4-Abstract.html)
@@ -127,6 +127,8 @@ _- Host:_ Magnus
 Wesley J. Maddox, Pavel Izmailov, Timur Garipov, Dmitry P. Vetrov, Andrew Gordon Wilson
 <br>
 https://proceedings.neurips.cc/paper/2019/hash/118921efba23fc329e6560b27861f0c2-Abstract.html
+
+Our rating : 2.25 ± 0.43
 
 __Week 23 (Jun 8)__
 _- Host:_ Hariprasath
