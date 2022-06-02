@@ -135,6 +135,17 @@ Our rating : 2.25 ± 0.43
 __Week 23 (Jun 8)__
 _- Host:_ Hariprasath
 
+*Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results*
+<br>
+Antti Tarvainen, Harri Valpola
+<br>
+https://papers.nips.cc/paper/2017/hash/68053af2923e00204c3ca7c6a3150cf7-Abstract.html
+
+*Some related papers:*
+  * [Temporal Ensembling for Semi-Supervised Learning](https://arxiv.org/pdf/1610.02242.pdf)
+  * [Dual Student: Breaking the Limits of the Teacher in Semi-supervised Learning
+](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ke_Dual_Student_Breaking_the_Limits_of_the_Teacher_in_Semi-Supervised_ICCV_2019_paper.pdf)
+
 __Week 25 (Jun 22)__
 _- Host:_ TBA
 
