@@ -146,6 +146,8 @@ https://papers.nips.cc/paper/2017/hash/68053af2923e00204c3ca7c6a3150cf7-Abstract
   * [Dual Student: Breaking the Limits of the Teacher in Semi-supervised Learning
 ](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ke_Dual_Student_Breaking_the_Limits_of_the_Teacher_in_Semi-Supervised_ICCV_2019_paper.pdf)
 
+Our rating : 2.75 ± 0.43
+
 __Week 25 (Jun 22)__
 _- Host:_ TBA
 
