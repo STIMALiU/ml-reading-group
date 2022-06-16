@@ -149,7 +149,13 @@ https://papers.nips.cc/paper/2017/hash/68053af2923e00204c3ca7c6a3150cf7-Abstract
 Our rating : 2.75 ± 0.43
 
 __Week 25 (Jun 22)__
-_- Host:_ TBA
+_- Host:_ Amirhossein
+
+*Distributionally Robust Neural Networks for Group Shifts: On the Importance of Regularization for Worst-Case Generalization*
+<br>
+Shiori Sagawa, Pang Wei Koh, Tatsunori B. Hashimoto, Percy Liang
+<br>
+https://arxiv.org/abs/1911.08731
 
 ## Topics Discussed VT 2021
 
