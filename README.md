@@ -1,7 +1,8 @@
 # STIMA Machine Learning Reading Group
 The reading group is open to anyone who is interested in machine learning and who wants to meet up regularly to discuss ML research papers.
-
 If you want to get added to the mailing list or have any other questions feel free to contact [Joel Oskarsson](https://liu.se/en/employee/joeos82).
+
+*The reading group will resume in September 2022. Have a nice summer!*
 
 ## Format
 * One person is randomly designated the host for each session. They are responsible for choosing the paper to be discussed and for leading the discussion during the session. The host does not need to know the paper better than everyone else and does not need to prepare any presentation for the session.
@@ -156,6 +157,8 @@ _- Host:_ Amirhossein
 Shiori Sagawa, Pang Wei Koh, Tatsunori B. Hashimoto, Percy Liang
 <br>
 https://arxiv.org/abs/1911.08731
+
+Our rating : 3.00 ± 0.58
 
 ## Topics Discussed VT 2021
 
