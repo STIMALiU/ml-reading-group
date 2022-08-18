@@ -18,22 +18,31 @@ If you want to get added to the mailing list or have any other questions feel fr
 ## Schedule HT 2022
 
 __Week 35 (Aug 31)__
+_- Host:_ Joel
 
 __Week 37 (Sep 14)__
+_- Host:_ Per
 
 __Week 39 (Sep 28)__
+_- Host:_ Amanda
 
 __Week 41 (Oct 12)__
+_- Host:_ TBA (Reserved for potential ML Seminar guest)
 
 __Week 43 (Oct 26)__
+_- Host:_ Hari
 
 __Week 45 (Nov 9)__
+_- Host:_ TBA (Reserved for potential ML Seminar guest)
 
 __Week 47 (Nov 23)__
+_- Host:_ Josef
 
 __Week 49 (Dec 7)__
+_- Host:_ TBA (Reserved for potential ML Seminar guest)
 
 __Week 51 (Dec 21)__
+_- Host:_ Fredrik
 
 ## Earlier sessions
 
