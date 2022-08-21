@@ -20,6 +20,13 @@ If you want to get added to the mailing list or have any other questions feel fr
 __Week 35 (Aug 31)__
 _- Host:_ Joel
 
+*Bayesian Model Selection, the Marginal Likelihood, and Generalization*
+<br>
+Sanae Lotfi, Pavel Izmailov, Gregory Benton, Micah Goldblum, Andrew Gordon Wilson
+<br>
+https://arxiv.org/abs/2202.11678
+
+
 __Week 37 (Sep 14)__
 _- Host:_ Per
 
