@@ -26,6 +26,7 @@ Sanae Lotfi, Pavel Izmailov, Gregory Benton, Micah Goldblum, Andrew Gordon Wilso
 <br>
 https://arxiv.org/abs/2202.11678
 
+Our rating: 3.13 ± 0.60
 
 __Week 37 (Sep 14)__
 _- Host:_ Per
