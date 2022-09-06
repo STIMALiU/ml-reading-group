@@ -31,6 +31,13 @@ Our rating: 3.13 ± 0.60
 __Week 37 (Sep 14)__
 _- Host:_ Per
 
+*Overcoming Limitations of Mixture Density Networks: A Sampling and Fitting Framework for Multimodal Future Prediction*
+<br>
+Osama Makansi, Eddy Ilg, Ozgun Cicek, Thomas Brox
+<br>
+https://openaccess.thecvf.com/content_CVPR_2019/html/Makansi_Overcoming_Limitations_of_Mixture_Density_Networks_A_Sampling_and_Fitting_CVPR_2019_paper.html
+
+
 __Week 39 (Sep 28)__
 _- Host:_ Amanda
 
