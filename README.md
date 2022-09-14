@@ -42,6 +42,12 @@ Our rating: 3.17 ± 0.90
 __Week 39 (Sep 28)__
 _- Host:_ Amanda
 
+*The implicit bias of gradient descent on separable data*
+<br>
+Daniel Soudry, Elad Hoffer, Mor Shpigel Nacson, Suriya Gunasekar, Nathan Srebro
+<br>
+https://www.jmlr.org/papers/volume19/18-188/18-188.pdf
+
 __Week 41 (Oct 12)__
 _- Host:_ TBA (Reserved for potential ML Seminar guest)
 
