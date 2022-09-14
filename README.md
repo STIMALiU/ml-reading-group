@@ -37,6 +37,7 @@ Osama Makansi, Eddy Ilg, Ozgun Cicek, Thomas Brox
 <br>
 https://openaccess.thecvf.com/content_CVPR_2019/html/Makansi_Overcoming_Limitations_of_Mixture_Density_Networks_A_Sampling_and_Fitting_CVPR_2019_paper.html
 
+Our rating: 3.17 ± 0.90
 
 __Week 39 (Sep 28)__
 _- Host:_ Amanda
