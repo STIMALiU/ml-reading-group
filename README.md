@@ -48,8 +48,10 @@ Daniel Soudry, Elad Hoffer, Mor Shpigel Nacson, Suriya Gunasekar, Nathan Srebro
 <br>
 https://www.jmlr.org/papers/volume19/18-188/18-188.pdf
 
+Our rating: 3.00 ± 0.00
+
 __Week 41 (Oct 12)__
-_- Host:_ TBA (Reserved for potential ML Seminar guest)
+_- Host:_ Magnus
 
 __Week 43 (Oct 26)__
 _- Host:_ Hari
