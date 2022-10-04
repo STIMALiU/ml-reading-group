@@ -53,6 +53,12 @@ Our rating: 3.00 ± 0.00
 __Week 41 (Oct 12)__
 _- Host:_ Magnus
 
+*Safe Model-based Reinforcement Learning with Stability Guarantees*
+<br>
+Felix Berkenkamp, Matteo Turchetta, Angela Schoellig, Andreas Krause
+<br>
+https://proceedings.neurips.cc/paper/2017/hash/766ebcd59621e305170616ba3d3dac32-Abstract.html
+
 __Week 43 (Oct 26)__
 _- Host:_ Hari
 
