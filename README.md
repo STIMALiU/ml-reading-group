@@ -59,6 +59,8 @@ Felix Berkenkamp, Matteo Turchetta, Angela Schoellig, Andreas Krause
 <br>
 https://proceedings.neurips.cc/paper/2017/hash/766ebcd59621e305170616ba3d3dac32-Abstract.html
 
+Our rating: 3.80 ± 0.40
+
 __Week 43 (Oct 26)__
 _- Host:_ Hari
 
