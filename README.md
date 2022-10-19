@@ -64,6 +64,12 @@ Our rating: 3.80 ± 0.40
 __Week 43 (Oct 26)__
 _- Host:_ Hari
 
+*How Does SimSiam Avoid Collapse Without Negative Samples? A Unified Understanding with Self-supervised Contrastive Learning*
+<br>
+Chaoning Zhang, Kang Zhang, Chenshuang Zhang, Trung X. Pham, Chang D. Yoo, In So Kweon
+<br>
+https://openreview.net/forum?id=bwq6O4Cwdl
+
 __Week 45 (Nov 9)__
 _- Host:_ TBA (Reserved for potential ML Seminar guest)
 
