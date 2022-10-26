@@ -70,6 +70,8 @@ Chaoning Zhang, Kang Zhang, Chenshuang Zhang, Trung X. Pham, Chang D. Yoo, In So
 <br>
 https://openreview.net/forum?id=bwq6O4Cwdl
 
+Our rating: 2.20 ± 0.40
+
 __Week 45 (Nov 9)__
 _- Host:_ TBA (Reserved for potential ML Seminar guest)
 
