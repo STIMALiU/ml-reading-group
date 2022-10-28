@@ -79,7 +79,7 @@ __Week 47 (Nov 23)__
 _- Host:_ Josef
 
 __Week 49 (Dec 7)__
-_- Host:_ TBA (Reserved for potential ML Seminar guest)
+_- Host:_ Gabriel
 
 __Week 51 (Dec 21)__
 _- Host:_ Fredrik
