@@ -73,7 +73,13 @@ https://openreview.net/forum?id=bwq6O4Cwdl
 Our rating: 2.20 ± 0.40
 
 __Week 45 (Nov 9)__
-_- Host:_ TBA (Reserved for potential ML Seminar guest)
+_- Host:_ Jens Sjölund (ML Seminar guest)
+
+*A General Recipe for Likelihood-free Bayesian Optimization*
+<br>
+Jiaming Song, Lantao Yu, Willie Neiswanger, Stefano Ermon
+<br>
+https://proceedings.mlr.press/v162/song22b.html
 
 __Week 47 (Nov 23)__
 _- Host:_ Josef
