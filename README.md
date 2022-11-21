@@ -84,6 +84,12 @@ https://proceedings.mlr.press/v162/song22b.html
 __Week 47 (Nov 23)__
 _- Host:_ Josef
 
+*NGBoost: Natural Gradient Boosting for Probabilistic Prediction*
+<br>
+Tony Duan, Avati Anand, Daisy Yi Ding, Khanh K. Thai, Sanjay Basu, Andrew Ng, Alejandro Schuler
+<br>
+http://proceedings.mlr.press/v119/duan20a.html
+
 __Week 49 (Dec 7)__
 _- Host:_ Gabriel
 
