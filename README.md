@@ -95,6 +95,11 @@ Our rating: 3.67 ± 0.47
 __Week 49 (Dec 7)__
 _- Host:_ Gabriel
 
+*Sequential Neural Score Estimation: Likelihood-Free Inference with Conditional Score Based Diffusion Models*
+<br>
+Louis Sharrock, Jack Simons, Song Liu, Mark Beaumont
+<br>
+https://arxiv.org/abs/2210.04872
 
 __Week 51 (Dec 21)__
 _- Host:_ Fredrik
