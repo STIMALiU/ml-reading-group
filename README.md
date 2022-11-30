@@ -90,8 +90,11 @@ Tony Duan, Avati Anand, Daisy Yi Ding, Khanh K. Thai, Sanjay Basu, Andrew Ng, Al
 <br>
 http://proceedings.mlr.press/v119/duan20a.html
 
+Our rating: 3.67 ± 0.47
+
 __Week 49 (Dec 7)__
 _- Host:_ Gabriel
+
 
 __Week 51 (Dec 21)__
 _- Host:_ Fredrik
