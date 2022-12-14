@@ -104,6 +104,12 @@ https://arxiv.org/abs/2210.04872
 __Week 51 (Dec 21)__
 _- Host:_ Fredrik
 
+*Repulsive Deep Ensembles are Bayesian*
+<br>
+Francesco D'Angelo, Vincent Fortuin
+<br>
+https://openreview.net/forum?id=LAKplpLMbP8
+
 ## Earlier sessions
 
 * [VT 2022](archive/2022vt.md)
