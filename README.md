@@ -2,7 +2,7 @@
 The reading group is open to anyone who is interested in machine learning and who wants to meet up regularly to discuss ML research papers.
 If you want to get added to the mailing list or have any other questions feel free to contact [Joel Oskarsson](https://liu.se/en/employee/joeos82).
 
-**The reading group will resume in 2023.**
+**The reading group will resume in 2023. This page is being updated.**
 
 ## Format
 * One person is randomly designated the host for each session. They are responsible for choosing the paper to be discussed and for leading the discussion during the session. The host does not need to know the paper better than everyone else and does not need to prepare any presentation for the session.
@@ -17,105 +17,35 @@ If you want to get added to the mailing list or have any other questions feel fr
 * Send out a link to the paper on the mailing list at least one week in advance.
 * As the host it is also good to somewhat lead the discussion during the session. If you want you can give a short description of why you chose this paper, but there is no need for any proper presentation. It might be a good idea to come to the session prepared with a few discussion points, just to keep the conversation going.
 
-## Schedule HT 2022
+## Schedule VT 2023
 
-__Week 35 (Aug 31)__
-_- Host:_ Joel
+__Week 3 (Jan 18)__
 
-*Bayesian Model Selection, the Marginal Likelihood, and Generalization*
-<br>
-Sanae Lotfi, Pavel Izmailov, Gregory Benton, Micah Goldblum, Andrew Gordon Wilson
-<br>
-https://arxiv.org/abs/2202.11678
+__Week 5 (Feb 1)__
 
-Our rating: 3.13 ± 0.60
+__Week 7 (Feb 15)__ (*NOTE:* Change of location to John von Neumann ([map](https://www.ida.liu.se/department/location/search.en.shtml?keyword=von+neumann)))
 
-__Week 37 (Sep 14)__
-_- Host:_ Per
+__Week 9 (Mar 1)__
 
-*Overcoming Limitations of Mixture Density Networks: A Sampling and Fitting Framework for Multimodal Future Prediction*
-<br>
-Osama Makansi, Eddy Ilg, Ozgun Cicek, Thomas Brox
-<br>
-https://openaccess.thecvf.com/content_CVPR_2019/html/Makansi_Overcoming_Limitations_of_Mixture_Density_Networks_A_Sampling_and_Fitting_CVPR_2019_paper.html
+__Week 11 (Mar 15)__
 
-Our rating: 3.17 ± 0.90
+__Week 13 (Mar 29)__
 
-__Week 39 (Sep 28)__
-_- Host:_ Amanda
+__Week 15 (Apr 12)__
 
-*The implicit bias of gradient descent on separable data*
-<br>
-Daniel Soudry, Elad Hoffer, Mor Shpigel Nacson, Suriya Gunasekar, Nathan Srebro
-<br>
-https://www.jmlr.org/papers/volume19/18-188/18-188.pdf
+__Week 17 (Apr 26)__
 
-Our rating: 3.00 ± 0.00
+__Week 19 (May 10)__
 
-__Week 41 (Oct 12)__
-_- Host:_ Magnus
+__Week 21 (May 24)__
 
-*Safe Model-based Reinforcement Learning with Stability Guarantees*
-<br>
-Felix Berkenkamp, Matteo Turchetta, Angela Schoellig, Andreas Krause
-<br>
-https://proceedings.neurips.cc/paper/2017/hash/766ebcd59621e305170616ba3d3dac32-Abstract.html
+__Week 23 (Jun 7)__
 
-Our rating: 3.80 ± 0.40
-
-__Week 43 (Oct 26)__
-_- Host:_ Hari
-
-*How Does SimSiam Avoid Collapse Without Negative Samples? A Unified Understanding with Self-supervised Contrastive Learning*
-<br>
-Chaoning Zhang, Kang Zhang, Chenshuang Zhang, Trung X. Pham, Chang D. Yoo, In So Kweon
-<br>
-https://openreview.net/forum?id=bwq6O4Cwdl
-
-Our rating: 2.20 ± 0.40
-
-__Week 45 (Nov 9)__
-_- Host:_ Jens Sjölund (ML Seminar guest)
-
-*A General Recipe for Likelihood-free Bayesian Optimization*
-<br>
-Jiaming Song, Lantao Yu, Willie Neiswanger, Stefano Ermon
-<br>
-https://proceedings.mlr.press/v162/song22b.html
-
-__Week 47 (Nov 23)__
-_- Host:_ Josef
-
-*NGBoost: Natural Gradient Boosting for Probabilistic Prediction*
-<br>
-Tony Duan, Avati Anand, Daisy Yi Ding, Khanh K. Thai, Sanjay Basu, Andrew Ng, Alejandro Schuler
-<br>
-http://proceedings.mlr.press/v119/duan20a.html
-
-Our rating: 3.67 ± 0.47
-
-__Week 49 (Dec 7)__
-_- Host:_ Gabriel
-
-*Sequential Neural Score Estimation: Likelihood-Free Inference with Conditional Score Based Diffusion Models*
-<br>
-Louis Sharrock, Jack Simons, Song Liu, Mark Beaumont
-<br>
-https://arxiv.org/abs/2210.04872
-
-__Week 51 (Dec 21)__
-_- Host:_ Fredrik
-
-*Repulsive Deep Ensembles are Bayesian*
-<br>
-Francesco D'Angelo, Vincent Fortuin
-<br>
-https://openreview.net/forum?id=LAKplpLMbP8
-
-Our rating: 3.50 ± 0.50
+__Week 25 (Jun 25)__
 
 ## Earlier sessions
 
+* [HT 2022](archive/2022ht.md)
 * [VT 2022](archive/2022vt.md)
 * [VT 2021](archive/2021vt.md)
 * [VT 2020](archive/2020vt.md)
