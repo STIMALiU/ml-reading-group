@@ -2,14 +2,15 @@
 The reading group is open to anyone who is interested in machine learning and who wants to meet up regularly to discuss ML research papers.
 If you want to get added to the mailing list or have any other questions feel free to contact [Joel Oskarsson](https://liu.se/en/employee/joeos82).
 
-**The reading group will resume in 2023. This page is being updated.**
+For VT 2023 we will try a format where we stick to papers on the same topic for two subsequent sessions. The first session (18/1) of the year will be devoted to deciding all the topics for the spring. 
 
 ## Format
-* One person is randomly designated the host for each session. They are responsible for choosing the paper to be discussed and for leading the discussion during the session. The host does not need to know the paper better than everyone else and does not need to prepare any presentation for the session.
+* One or two people are designated the host for each topic (two sessions). They are responsible for choosing the papers to be discussed and for leading the discussion during the session.
 * We meet Wednesdays 10:15-12:00 on odd weeks.
 * We will meet in Thomas Bayes, B-building ([map](https://www.ida.liu.se/department/location/search.en.shtml?keyword=thomas+bayes)).
 
 ## Host intstructions
+Note: **These are to be updated based on the new format**
 * Choose a paper that you think would be interesting to discuss in the reading group. In order to set a focus for the reading group we came up with the following short guidelines for how to choose papers:
   * The main topic of the paper should be core machine learning research. Try to avoid papers that just apply well known machine learning methods to specific application areas.
   * Make sure the paper is of high quality. Read through it yourself and try to gauge its quality. As a guideline, think that it should be publishable at a top machine learning conference (i.e. the paper should be of such quality, it does not have to actually be a short conference paper).
@@ -20,6 +21,8 @@ If you want to get added to the mailing list or have any other questions feel fr
 ## Schedule VT 2023
 
 __Week 3 (Jan 18)__
+
+Choosing topics for the spring.
 
 __Week 5 (Feb 1)__
 
