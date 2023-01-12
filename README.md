@@ -44,7 +44,7 @@ __Week 21 (May 24)__
 
 __Week 23 (Jun 7)__
 
-__Week 25 (Jun 25)__
+__Week 25 (Jun 21)__
 
 ## Earlier sessions
 
