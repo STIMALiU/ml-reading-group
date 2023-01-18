@@ -47,12 +47,12 @@ _- Host:_ Anton, Filip
 __Week 13 (Mar 29)__
 <br>
 __Topic: Deep GPs__
-_- Host:_ Joel
+_- Host:_ Joel, Hari
 
 __Week 15 (Apr 12)__
 <br>
 __Topic: Deep GPs__
-_- Host:_ Joel
+_- Host:_ Joel, Hari
 
 __Week 17 (Apr 26)__
 <br>
