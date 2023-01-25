@@ -29,6 +29,12 @@ __Week 5 (Feb 1)__
 __Topic: Theory of Deep Learning__
 _- Host:_ Amanda, Melisa
 
+*Git Re-Basin: Merging Models modulo Permutation Symmetries*
+<br>
+Samuel K. Ainsworth, Jonathan Hayase, Siddhartha Srinivasa
+<br>
+https://arxiv.org/abs/2209.04836
+
 __Week 7 (Feb 15)__ (*NOTE:* Change of location to John von Neumann ([map](https://www.ida.liu.se/department/location/search.en.shtml?keyword=von+neumann)))
 <br>
 __Topic: Theory of Deep Learning__
