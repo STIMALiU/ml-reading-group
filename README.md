@@ -35,6 +35,8 @@ Samuel K. Ainsworth, Jonathan Hayase, Siddhartha Srinivasa
 <br>
 https://arxiv.org/abs/2209.04836
 
+Our rating: 3.38 ± 0.70
+
 __Week 7 (Feb 15)__ (*NOTE:* Change of location to John von Neumann ([map](https://www.ida.liu.se/department/location/search.en.shtml?keyword=von+neumann)))
 <br>
 __Topic: Theory of Deep Learning__
