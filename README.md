@@ -42,6 +42,12 @@ __Week 7 (Feb 15)__ (*NOTE:* Change of location to John von Neumann ([map](https
 __Topic: Theory of Deep Learning__
 _- Host:_ Amanda, Melisa
 
+*How SGD Selects the Global Minima in Over-parameterized Learning: A Dynamical Stability Perspective*
+<br>
+Lei Wu, Chao Ma, Weinan E
+<br>
+https://papers.nips.cc/paper/2018/hash/6651526b6fb8f29a00507de6a49ce30f-Abstract.html
+
 __Week 9 (Mar 1)__
 <br>
 __Topic: Dynamics Learning__
