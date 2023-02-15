@@ -48,6 +48,8 @@ Lei Wu, Chao Ma, Weinan E
 <br>
 https://papers.nips.cc/paper/2018/hash/6651526b6fb8f29a00507de6a49ce30f-Abstract.html
 
+Our rating: 2.86 ± 0.64
+
 __Week 9 (Mar 1)__
 <br>
 __Topic: Dynamics Learning__
