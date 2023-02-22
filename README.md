@@ -55,6 +55,12 @@ __Week 9 (Mar 1)__
 __Topic: Dynamics Learning__
 _- Host:_ Anton, Filip
 
+*Neural Controlled Differential Equations for Irregular Time Series*
+<br>
+Patrick Kidger, James Morrill, James Foster, Terry Lyons
+<br>
+https://proceedings.neurips.cc/paper/2020/hash/4a5876b450b45371f6cfe5047ac8cd45-Abstract.html
+
 __Week 11 (Mar 15)__
 <br>
 __Topic: Dynamics Learning__
