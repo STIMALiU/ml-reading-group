@@ -61,6 +61,8 @@ Patrick Kidger, James Morrill, James Foster, Terry Lyons
 <br>
 https://proceedings.neurips.cc/paper/2020/hash/4a5876b450b45371f6cfe5047ac8cd45-Abstract.html
 
+Our rating: 3.71 ± 0.45
+
 __Week 11 (Mar 15)__
 <br>
 __Topic: Dynamics Learning__
