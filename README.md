@@ -68,6 +68,12 @@ __Week 11 (Mar 15)__
 __Topic: Dynamics Learning__
 _- Host:_ Anton, Filip
 
+*Variational multiple shooting for Bayesian ODEs with Gaussian processes*
+<br>
+Pashupati Rajaram Hegde, Cagatay Yildiz, Harri Lähdesmäki, Samuel Kaski, Markus Heinonen
+<br>
+https://openreview.net/forum?id=r2NuhIUoceq
+
 __Week 13 (Mar 29)__
 <br>
 __Topic: Deep GPs__
