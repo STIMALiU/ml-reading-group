@@ -74,6 +74,8 @@ Pashupati Rajaram Hegde, Cagatay Yildiz, Harri Lähdesmäki, Samuel Kaski, Marku
 <br>
 https://openreview.net/forum?id=r2NuhIUoceq
 
+Our rating: 3.00 ± 0.71
+
 __Week 13 (Mar 29)__
 <br>
 __Topic: Deep GPs__
