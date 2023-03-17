@@ -81,6 +81,12 @@ __Week 13 (Mar 29)__
 __Topic: Deep GPs__
 _- Host:_ Joel, Hari
 
+*Deep Gaussian Processes*
+<br>
+Andreas Damianou, Neil D. Lawrence
+<br>
+http://proceedings.mlr.press/v31/damianou13a
+
 __Week 15 (Apr 12)__
 <br>
 __Topic: Deep GPs__
