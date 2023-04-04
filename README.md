@@ -96,13 +96,13 @@ _- Host:_ Joel, Hari
 
 __Week 17 (Apr 26)__
 <br>
-__Topic: Conformal Prediction__
-_- Host:_ Magnus
+__Topic: Variational Methods__
+_- Host:_ Shashi
 
 __Week 19 (May 10)__
 <br>
-__Topic: Conformal Prediction__
-_- Host:_ Magnus
+__Topic: TBA__
+_- Host:_ TBA
 
 __Week 21 (May 24)__
 <br>
@@ -111,12 +111,13 @@ _- Host:_ Shashi
 
 __Week 23 (Jun 7)__
 <br>
-__Topic: Variational Methods__
-_- Host:_ Shashi
+__Topic: Conformal Prediction__
+_- Host:_ Magnus
 
 __Week 25 (Jun 21)__
-
-TBD, Potential extra session
+<br>
+__Topic: Conformal Prediction__
+_- Host:_ Magnus
 
 ## Earlier sessions
 
