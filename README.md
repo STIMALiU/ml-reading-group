@@ -94,6 +94,12 @@ __Week 15 (Apr 12)__
 __Topic: Deep GPs__
 _- Host:_ Joel, Hari
 
+*Calibrating Transformers via Sparse Gaussian Processes*
+<br>
+Wenlong Chen, Yingzhen Li
+<br>
+https://openreview.net/forum?id=jPVAFXHlbL
+
 __Week 17 (Apr 26)__
 <br>
 __Topic: Variational Methods__
