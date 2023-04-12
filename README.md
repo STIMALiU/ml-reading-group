@@ -100,6 +100,8 @@ Wenlong Chen, Yingzhen Li
 <br>
 https://openreview.net/forum?id=jPVAFXHlbL
 
+Our rating: 2.40 ± 0.49
+
 __Week 17 (Apr 26)__
 <br>
 __Topic: Variational Methods__
