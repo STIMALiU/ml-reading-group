@@ -107,6 +107,16 @@ __Week 17 (Apr 26)__
 __Topic: Variational Methods__
 _- Host:_ Shashi
 
+*Deep Variational Bayes Filters: Unsupervised Learning of State Space Models from Raw Data*
+<br>
+Maximilian Karl, Maximilian Soelch, Justin Bayer, Patrick van der Smagt
+<br>
+https://openreview.net/forum?id=HyTqHL5xg
+
+Related papers:
+* Kingma, Diederik P., and Max Welling. "An Introduction to Variational Autoencoders." Foundations and Trends® in Machine Learning 12.4 (2019): 307-392. https://arxiv.org/abs/1906.02691
+* Rezende, Danilo Jimenez, Shakir Mohamed, and Daan Wierstra. "Stochastic Backpropagation and Approximate Inference in Deep Generative Models." International conference on machine learning. PMLR, 2014. https://arxiv.org/abs/1401.4082
+
 __Week 19 (May 10)__
 <br>
 __Topic: TBA__
