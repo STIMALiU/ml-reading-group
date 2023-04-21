@@ -119,13 +119,14 @@ Related papers:
 
 __Week 19 (May 10)__
 <br>
-__Topic: TBA__
-_- Host:_ TBA
+__Topic: Variational Methods__
+_- Host:_ Shashi
+
 
 __Week 21 (May 24)__
 <br>
-__Topic: Variational Methods__
-_- Host:_ Shashi
+__Topic: TBA__
+_- Host:_ TBA
 
 __Week 23 (Jun 7)__
 <br>
