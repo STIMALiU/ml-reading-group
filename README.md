@@ -117,6 +117,8 @@ Related papers:
 * Kingma, Diederik P., and Max Welling. "An Introduction to Variational Autoencoders." Foundations and Trends® in Machine Learning 12.4 (2019): 307-392. https://arxiv.org/abs/1906.02691
 * Rezende, Danilo Jimenez, Shakir Mohamed, and Daan Wierstra. "Stochastic Backpropagation and Approximate Inference in Deep Generative Models." International conference on machine learning. PMLR, 2014. https://arxiv.org/abs/1401.4082
 
+Our rating: 3.00 ± 0.00
+
 __Week 19 (May 10)__
 <br>
 __Topic: Variational Methods__
