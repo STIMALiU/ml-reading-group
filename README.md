@@ -124,6 +124,11 @@ __Week 19 (May 10)__
 __Topic: Variational Methods__
 _- Host:_ Shashi
 
+*Sequential Latent Variable Models for Few-Shot High-Dimensional Time-Series Forecasting*
+<br>
+Xiajun Jiang, Ryan Missel, Zhiyuan Li, Linwei Wang
+<br>
+https://openreview.net/forum?id=7C9aRX2nBf2
 
 __Week 21 (May 24)__
 <br>
