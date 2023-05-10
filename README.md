@@ -132,8 +132,14 @@ https://openreview.net/forum?id=7C9aRX2nBf2
 
 __Week 21 (May 24)__
 <br>
-__Topic: TBA__
-_- Host:_ TBA
+__Topic: (Revisiting) Theory of Deep Learning__
+
+*Loss Landscapes are All You Need: Neural Network Generalization Can Be Explained Without the Implicit Bias of Gradient Descent*
+<br>
+Ping-yeh Chiang, Renkun Ni, David Yu Miller, Arpit Bansal, Jonas Geiping, Micah Goldblum, Tom Goldstein
+<br>
+https://openreview.net/forum?id=QC10RmRbZy9
+
 
 __Week 23 (Jun 7)__
 <br>
