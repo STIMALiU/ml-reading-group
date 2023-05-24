@@ -140,6 +140,7 @@ Ping-yeh Chiang, Renkun Ni, David Yu Miller, Arpit Bansal, Jonas Geiping, Micah 
 <br>
 https://openreview.net/forum?id=QC10RmRbZy9
 
+Our rating: 3.00 ± 0.00
 
 __Week 23 (Jun 7)__
 <br>
