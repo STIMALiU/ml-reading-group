@@ -147,6 +147,12 @@ __Week 23 (Jun 7)__
 __Topic: Conformal Prediction__
 _- Host:_ Magnus
 
+*Conformal Prediction with Neural Networks*
+<br>
+Harris Papadopoulos, Volodya Vovk, Alex Gammerman
+<br>
+https://ieeexplore.ieee.org/abstract/document/4410411
+
 __Week 25 (Jun 21)__
 <br>
 __Topic: Conformal Prediction__
