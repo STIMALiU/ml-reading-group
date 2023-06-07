@@ -153,6 +153,8 @@ Harris Papadopoulos, Volodya Vovk, Alex Gammerman
 <br>
 https://ieeexplore.ieee.org/abstract/document/4410411
 
+Our rating: 2.67 ± 0.47
+
 __Week 25 (Jun 21)__
 <br>
 __Topic: Conformal Prediction__
