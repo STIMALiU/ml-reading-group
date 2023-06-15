@@ -160,6 +160,12 @@ __Week 25 (Jun 21)__
 __Topic: Conformal Prediction__
 _- Host:_ Magnus
 
+*Safe Planning in Dynamic Environments using Conformal Prediction*
+<br>
+Lars Lindemann, Matthew Cleaveland, Gihyun Shim, George J. Pappas
+<br>
+https://arxiv.org/abs/2210.10254
+
 ## Earlier sessions
 
 * [HT 2022](archive/2022ht.md)
