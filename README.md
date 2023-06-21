@@ -2,6 +2,8 @@
 The reading group is open to anyone who is interested in machine learning and who wants to meet up regularly to discuss ML research papers.
 If you want to get added to the mailing list or have any other questions feel free to contact [Joel Oskarsson](https://liu.se/en/employee/joeos82).
 
+*The reading group will resume in the fall 2023. Have a nice summer!*
+
 For VT 2023 we will try a format where we stick to papers on the same topic for two subsequent sessions. The first session (18/1) of the year will be devoted to deciding all the topics for the spring. 
 
 ## Format
@@ -165,6 +167,8 @@ _- Host:_ Magnus
 Lars Lindemann, Matthew Cleaveland, Gihyun Shim, George J. Pappas
 <br>
 https://arxiv.org/abs/2210.10254
+
+Our rating: 2.33 ± 0.47
 
 ## Earlier sessions
 
