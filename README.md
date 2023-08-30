@@ -18,28 +18,49 @@ For HT 2023 we will follow the format where we stick to papers on the same topic
 * Send out a link to the paper on the mailing list at least one week in advance.
 * As the host it is also good to somewhat lead the discussion during the session. If you want you can give a short description of why you chose this paper, but there is no need for any proper presentation. It might be a good idea to come to the session prepared with a few discussion points, just to keep the conversation going.
 
-## (Preliminary) Schedule HT 2023
+## Schedule HT 2023
 
 __Week 35 (Aug 30)__
 
 Choosing topics for the fall.
 
 __Week 37 (Sep 13)__
+<br>
+__Topic: Reserved for potential seminar guest__
 
 __Week 39 (Sep 27)__
+<br>
+__Topic: Generative flow networks__
+_- Host:_ Dong
 
 __Week 41 (Oct 11)__
+<br>
+__Topic: Generative flow networks__
+_- Host:_ Dong
 
 __Week 43 (Oct 25)__
+<br>
+__Topic: Diffusion models__
+_- Host:_ Filip, Amanda
 
 __Week 45 (Nov 8)__
+<br>
+__Topic: Reserved for potential seminar guest__
 
 __Week 47 (Nov 22)__
+<br>
+__Topic: Diffusion models__
+_- Host:_ Filip, Amanda
 
 __Week 49 (Dec 6)__
+<br>
+__Topic: Did Schmidhuber invent it?__
+_- Host:_ Joel, Hoda 
 
 __Week 51 (Dec 20)__
-
+<br>
+__Topic: Did Schmidhuber invent it?__
+_- Host:_ Joel, Hoda
 
 ## Earlier sessions
 
