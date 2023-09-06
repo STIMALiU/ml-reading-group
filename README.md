@@ -26,7 +26,13 @@ Choosing topics for the fall.
 
 __Week 37 (Sep 13)__
 <br>
-__Topic: Reserved for potential seminar guest__
+__Guest: Søren Hauberg__
+
+*On Masked Pre-training and the Marginal Likelihood*
+<br>
+Pablo Moreno-Muñoz, Pol G. Recasens, Søren Hauberg
+<br>
+https://arxiv.org/abs/2306.00520
 
 __Week 39 (Sep 27)__
 <br>
