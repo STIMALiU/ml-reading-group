@@ -39,6 +39,18 @@ __Week 39 (Sep 27)__
 __Topic: Generative flow networks__
 _- Host:_ Dong
 
+*Learning GFlowNets from partial episodes for improved convergence and stability*
+<br>
+Kanika Madan, Jarrid Rector-Brooks, Maksym Korablyov, Emmanuel Bengio, Moksh Jain, Andrei Nica, Tom Bosc, Yoshua Bengio, Nikolay Malkin
+<br>
+https://arxiv.org/abs/2209.12782
+
+*Related papers:*
+
+* Emmanuel Bengio et al. [Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation.](https://arxiv.org/abs/2106.04399) NeurIPS, 2021. (Introduction of flow-matching)
+* Yoshua Bengio et al. [GFlowNet Foundations.](https://www.jmlr.org/papers/v24/22-0364.html) JMLR, 2023. (Introduction of detailed-balance)
+* Nikolay Malkin et al. [Trajectory Balance: Improved Credit Assignment in GFlowNets.](https://arxiv.org/abs/2201.13259) NeurIPS, 2022. (Introduction of trajectory-balance)
+
 __Week 41 (Oct 11)__
 <br>
 __Topic: Generative flow networks__
