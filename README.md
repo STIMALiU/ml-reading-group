@@ -51,6 +51,8 @@ https://arxiv.org/abs/2209.12782
 * Yoshua Bengio et al. [GFlowNet Foundations.](https://www.jmlr.org/papers/v24/22-0364.html) JMLR, 2023. (Introduction of detailed-balance)
 * Nikolay Malkin et al. [Trajectory Balance: Improved Credit Assignment in GFlowNets.](https://arxiv.org/abs/2201.13259) NeurIPS, 2022. (Introduction of trajectory-balance)
 
+Our rating: 3.00 ± 0.00
+
 __Week 41 (Oct 11)__
 <br>
 __Topic: Generative flow networks__
@@ -87,3 +89,37 @@ _- Host:_ Joel, Hoda
 * [VT 2022](archive/2022vt.md)
 * [VT 2021](archive/2021vt.md)
 * [VT 2020](archive/2020vt.md)
+
+## Paper scoring scale
+
+5: Very Strong Accept: 
+
+* Technically flawless paper 
+* with groundbreaking impact on at least one area of ML and excellent impact on multiple areas of ML, 
+* with flawless evaluation, resources, and reproducibility, 
+* and no unaddressed ethical considerations.
+
+4: Strong Accept: 
+
+* Technically strong paper, with novel ideas, 
+* excellent impact on at least one area of ML or high-to-excellent impact on multiple areas of ML, 
+* with excellent evaluation, resources, and reproducibility, 
+* and no unaddressed ethical considerations.
+
+3: Accept: 
+
+* Technically solid paper, 
+* with high impact on at least one sub-area of ML or moderate-to-high impact on more than one area of ML, 
+* with good-to-excellent evaluation, resources, reproducibility, 
+* and no unaddressed ethical considerations.
+
+2: Weak Accept: 
+
+* Technically solid, 
+* moderate-to-high impact paper, 
+* with no major concerns with respect to evaluation, resources, reproducibility, ethical considerations.
+
+1: Borderline accept: 
+
+* Technically solid paper 
+* where reasons to accept outweigh reasons to reject, e.g., limited evaluation.
