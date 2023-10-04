@@ -58,6 +58,12 @@ __Week 41 (Oct 11)__
 __Topic: Generative flow networks__
 _- Host:_ Dong
 
+*Unifying Generative Models with GFlowNets and Beyond*
+<br>
+Dinghuai Zhang, Ricky T. Q. Chen, Nikolay Malkin, Yoshua Bengio
+<br>
+https://arxiv.org/abs/2209.02606
+
 __Week 43 (Oct 25)__
 <br>
 __Topic: Diffusion models__
