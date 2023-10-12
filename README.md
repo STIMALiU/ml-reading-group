@@ -64,6 +64,8 @@ Dinghuai Zhang, Ricky T. Q. Chen, Nikolay Malkin, Yoshua Bengio
 <br>
 https://arxiv.org/abs/2209.02606
 
+Our rating: 1.80 ± 0.75
+
 __Week 43 (Oct 25)__
 <br>
 __Topic: Diffusion models__
