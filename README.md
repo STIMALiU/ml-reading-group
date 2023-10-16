@@ -71,6 +71,12 @@ __Week 43 (Oct 25)__
 __Topic: Diffusion models__
 _- Host:_ Filip, Amanda
 
+*High-Resolution Image Synthesis With Latent Diffusion Models*
+<br>
+Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer
+<br>
+https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html
+
 __Week 45 (Nov 8)__
 <br>
 __Topic: Reserved for potential seminar guest__
