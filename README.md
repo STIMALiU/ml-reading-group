@@ -79,7 +79,7 @@ https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Imag
 
 __Week 45 (Nov 8)__
 <br>
-__Topic: Reserved for potential seminar guest__
+__Guest: Brooks Paige__
 
 __Week 47 (Nov 22)__
 <br>
