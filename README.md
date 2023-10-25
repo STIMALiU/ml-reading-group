@@ -77,6 +77,8 @@ Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer
 <br>
 https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html
 
+Our rating: 3.13 ± 0.33
+
 __Week 45 (Nov 8)__
 <br>
 __Guest: Brooks Paige__
