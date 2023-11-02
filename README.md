@@ -83,6 +83,12 @@ __Week 45 (Nov 8)__
 <br>
 __Guest: Brooks Paige__
 
+*Score-Based Diffusion meets Annealed Importance Sampling*
+<br>
+Arnaud Doucet, Will Grathwohl, Alexander G. Matthews, Heiko Strathmann
+<br>
+https://proceedings.neurips.cc/paper_files/paper/2022/hash/86b7128efa3950df7c0f6c0342e6dcc1-Abstract-Conference.html
+
 __Week 47 (Nov 22)__
 <br>
 __Topic: Diffusion models__
