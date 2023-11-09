@@ -89,6 +89,8 @@ Arnaud Doucet, Will Grathwohl, Alexander G. Matthews, Heiko Strathmann
 <br>
 https://proceedings.neurips.cc/paper_files/paper/2022/hash/86b7128efa3950df7c0f6c0342e6dcc1-Abstract-Conference.html
 
+Our rating: 2.71 ± 0.45
+
 __Week 47 (Nov 22)__
 <br>
 __Topic: Diffusion models__
