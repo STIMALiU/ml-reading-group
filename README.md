@@ -102,6 +102,8 @@ Hyungjin Chung, Byeongsu Sim, Dohoon Ryu, Jong Chul Ye
 <br>
 https://proceedings.neurips.cc/paper_files/paper/2022/hash/a48e5877c7bf86a513950ab23b360498-Abstract-Conference.html
 
+Our rating: 2.40 ± 1.02
+
 __Week 49 (Dec 6)__
 <br>
 __Topic: Did Schmidhuber invent it?__
