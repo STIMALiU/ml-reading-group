@@ -109,6 +109,15 @@ __Week 49 (Dec 6)__
 __Topic: Did Schmidhuber invent it?__
 _- Host:_ Joel, Hoda 
 
+*Learning to Control Fast-Weight Memories: An Alternative to Dynamic Recurrent Networks*
+<br>
+Jürgen Schmidhuber
+
+*Related:*
+
+* Jürgen Schmidhuber [Neural nets learn to program neural nets with fast weights—the first Transformer variants](https://people.idsia.ch/~juergen/fast-weight-programmer-1991-transformer.html), 2021 (Blog post)
+* Vaswani, Ashish, et al. [Attention is all you need](https://proceedings.neurips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html), NeurIPS 2017.
+
 __Week 51 (Dec 20)__
 <br>
 __Topic: Did Schmidhuber invent it?__
