@@ -123,6 +123,18 @@ __Week 51 (Dec 20)__
 __Topic: Did Schmidhuber invent it?__
 _- Host:_ Joel, Hoda
 
+*Generative Adversarial Networks are Special Cases of Artificial Curiosity (1990) and also Closely Related to Predictability Minimization (1991)*
+<br>
+Jürgen Schmidhuber
+
+*Related:*
+
+* Goodfellow et al. [Generative Adversarial Nets](https://proceedings.neurips.cc/paper_files/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html), NeurIPS, 2014.
+* Jürgen Schmidhuber. [Learning factorial codes by predictability minimization](https://mediatum.ub.tum.de/node?id=813184), Neural Computation, 1992.
+* Jürgen Schmidhuber. [Making the world differentiable: On using fully recurrent self-supervised
+neural networks for dynamic reinforcement learning and planning in non-stationary
+environments](http://people.idsia.ch/~juergen/FKI-126-90_(revised)bw_ocr.pdf), Technical report, 1990.
+
 ## Earlier sessions
 
 * [VT 2023](archive/2023vt.md)
