@@ -126,6 +126,8 @@ _- Host:_ Joel, Hoda
 *Generative Adversarial Networks are Special Cases of Artificial Curiosity (1990) and also Closely Related to Predictability Minimization (1991)*
 <br>
 Jürgen Schmidhuber
+<br>
+https://arxiv.org/abs/1906.04493
 
 *Related:*
 
