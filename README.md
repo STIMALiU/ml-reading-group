@@ -2,11 +2,11 @@
 The reading group is open to anyone who is interested in machine learning and who wants to meet up regularly to discuss ML research papers.
 If you want to get added to the mailing list or have any other questions feel free to contact [Joel Oskarsson](https://liu.se/en/employee/joeos82).
 
-For HT 2023 we will follow the format where we stick to papers on the same topic for two subsequent sessions. The first session (August 30) will be devoted to deciding all the topics for the fall.
+For VT 2024 we will continue with the format where we stick to papers on the same topic for two subsequent sessions. The first session (January 17) will be devoted to deciding all the topics for the fall.
 
 ## Format
 * One or two people are designated the host for each topic (two sessions). They are responsible for choosing the papers to be discussed and for leading the discussion during the session.
-* We meet Wednesdays 10:15-12:00 on odd weeks.
+* We meet Wednesdays 10:15-12:00 on even weeks.
 * We will meet in Thomas Bayes, B-building ([map](https://www.ida.liu.se/department/location/search.en.shtml?keyword=thomas+bayes)).
 
 ## Host intstructions
@@ -18,127 +18,35 @@ For HT 2023 we will follow the format where we stick to papers on the same topic
 * Send out a link to the paper on the mailing list at least one week in advance.
 * As the host it is also good to somewhat lead the discussion during the session. If you want you can give a short description of why you chose this paper, but there is no need for any proper presentation. It might be a good idea to come to the session prepared with a few discussion points, just to keep the conversation going.
 
-## Schedule HT 2023
+## Schedule VT 2024
 
-__Week 35 (Aug 30)__
+__Week 3 (Jan 17)__ (*NOTE:* Odd week)
 
-Choosing topics for the fall.
+Decide on topics for the spring.
 
-__Week 37 (Sep 13)__
-<br>
-__Guest: Søren Hauberg__
+__Week 4 (Jan 24)__
 
-*On Masked Pre-training and the Marginal Likelihood*
-<br>
-Pablo Moreno-Muñoz, Pol G. Recasens, Søren Hauberg
-<br>
-https://arxiv.org/abs/2306.00520
+__Week 6 (Feb 7)__ (*NOTE:* Change of location to John von Neumann ([map](https://www.ida.liu.se/department/location/search.en.shtml?keyword=von+neumann)))
 
-__Week 39 (Sep 27)__
-<br>
-__Topic: Generative flow networks__
-_- Host:_ Dong
+__Week 8 (Feb 21)__
 
-*Learning GFlowNets from partial episodes for improved convergence and stability*
-<br>
-Kanika Madan, Jarrid Rector-Brooks, Maksym Korablyov, Emmanuel Bengio, Moksh Jain, Andrei Nica, Tom Bosc, Yoshua Bengio, Nikolay Malkin
-<br>
-https://arxiv.org/abs/2209.12782
+__Week 10 (Mar 6)__
 
-*Related papers:*
+__Week 12 (Mar 20)__
 
-* Emmanuel Bengio et al. [Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation.](https://arxiv.org/abs/2106.04399) NeurIPS, 2021. (Introduction of flow-matching)
-* Yoshua Bengio et al. [GFlowNet Foundations.](https://www.jmlr.org/papers/v24/22-0364.html) JMLR, 2023. (Introduction of detailed-balance)
-* Nikolay Malkin et al. [Trajectory Balance: Improved Credit Assignment in GFlowNets.](https://arxiv.org/abs/2201.13259) NeurIPS, 2022. (Introduction of trajectory-balance)
+__Week 14 (Apr 3)__
 
-Our rating: 3.00 ± 0.00
+__Week 16 (Apr 17)__
 
-__Week 41 (Oct 11)__
-<br>
-__Topic: Generative flow networks__
-_- Host:_ Dong
+__Week 20 (May 15)__
 
-*Unifying Generative Models with GFlowNets and Beyond*
-<br>
-Dinghuai Zhang, Ricky T. Q. Chen, Nikolay Malkin, Yoshua Bengio
-<br>
-https://arxiv.org/abs/2209.02606
+__Week 22 (May 29)__
 
-Our rating: 1.80 ± 0.75
-
-__Week 43 (Oct 25)__
-<br>
-__Topic: Diffusion models__
-_- Host:_ Filip, Amanda
-
-*High-Resolution Image Synthesis With Latent Diffusion Models*
-<br>
-Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer
-<br>
-https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html
-
-Our rating: 3.13 ± 0.33
-
-__Week 45 (Nov 8)__
-<br>
-__Guest: Brooks Paige__
-
-*Score-Based Diffusion meets Annealed Importance Sampling*
-<br>
-Arnaud Doucet, Will Grathwohl, Alexander G. Matthews, Heiko Strathmann
-<br>
-https://proceedings.neurips.cc/paper_files/paper/2022/hash/86b7128efa3950df7c0f6c0342e6dcc1-Abstract-Conference.html
-
-Our rating: 2.71 ± 0.45
-
-__Week 47 (Nov 22)__
-<br>
-__Topic: Diffusion models__
-_- Host:_ Filip, Amanda
-
-*Improving Diffusion Models for Inverse Problems using Manifold Constraints*
-<br>
-Hyungjin Chung, Byeongsu Sim, Dohoon Ryu, Jong Chul Ye
-<br>
-https://proceedings.neurips.cc/paper_files/paper/2022/hash/a48e5877c7bf86a513950ab23b360498-Abstract-Conference.html
-
-Our rating: 2.40 ± 1.02
-
-__Week 49 (Dec 6)__
-<br>
-__Topic: Did Schmidhuber invent it?__
-_- Host:_ Joel, Hoda 
-
-*Learning to Control Fast-Weight Memories: An Alternative to Dynamic Recurrent Networks*
-<br>
-Jürgen Schmidhuber
-
-*Related:*
-
-* Jürgen Schmidhuber [Neural nets learn to program neural nets with fast weights—the first Transformer variants](https://people.idsia.ch/~juergen/fast-weight-programmer-1991-transformer.html), 2021 (Blog post)
-* Vaswani, Ashish, et al. [Attention is all you need](https://proceedings.neurips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html), NeurIPS 2017.
-
-__Week 51 (Dec 20)__
-<br>
-__Topic: Did Schmidhuber invent it?__
-_- Host:_ Joel, Hoda
-
-*Generative Adversarial Networks are Special Cases of Artificial Curiosity (1990) and also Closely Related to Predictability Minimization (1991)*
-<br>
-Jürgen Schmidhuber
-<br>
-https://arxiv.org/abs/1906.04493
-
-*Related:*
-
-* Goodfellow et al. [Generative Adversarial Nets](https://proceedings.neurips.cc/paper_files/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html), NeurIPS, 2014.
-* Jürgen Schmidhuber. [Learning factorial codes by predictability minimization](https://mediatum.ub.tum.de/node?id=813184), Neural Computation, 1992.
-* Jürgen Schmidhuber. [Making the world differentiable: On using fully recurrent self-supervised
-neural networks for dynamic reinforcement learning and planning in non-stationary
-environments](http://people.idsia.ch/~juergen/FKI-126-90_(revised)bw_ocr.pdf), Technical report, 1990.
+__Week 24 (Jun 12)__
 
 ## Earlier sessions
 
+* [HT 2023](archive/2023ht.md)
 * [VT 2023](archive/2023vt.md)
 * [HT 2022](archive/2022ht.md)
 * [VT 2022](archive/2022vt.md)
@@ -147,34 +55,34 @@ environments](http://people.idsia.ch/~juergen/FKI-126-90_(revised)bw_ocr.pdf), T
 
 ## Paper scoring scale
 
-5: Very Strong Accept: 
+5: Very Strong Accept:
 
-* Technically flawless paper 
-* with groundbreaking impact on at least one area of ML and excellent impact on multiple areas of ML, 
-* with flawless evaluation, resources, and reproducibility, 
+* Technically flawless paper
+* with groundbreaking impact on at least one area of ML and excellent impact on multiple areas of ML,
+* with flawless evaluation, resources, and reproducibility,
 * and no unaddressed ethical considerations.
 
-4: Strong Accept: 
+4: Strong Accept:
 
-* Technically strong paper, with novel ideas, 
-* excellent impact on at least one area of ML or high-to-excellent impact on multiple areas of ML, 
-* with excellent evaluation, resources, and reproducibility, 
+* Technically strong paper, with novel ideas,
+* excellent impact on at least one area of ML or high-to-excellent impact on multiple areas of ML,
+* with excellent evaluation, resources, and reproducibility,
 * and no unaddressed ethical considerations.
 
-3: Accept: 
+3: Accept:
 
-* Technically solid paper, 
-* with high impact on at least one sub-area of ML or moderate-to-high impact on more than one area of ML, 
-* with good-to-excellent evaluation, resources, reproducibility, 
+* Technically solid paper,
+* with high impact on at least one sub-area of ML or moderate-to-high impact on more than one area of ML,
+* with good-to-excellent evaluation, resources, reproducibility,
 * and no unaddressed ethical considerations.
 
-2: Weak Accept: 
+2: Weak Accept:
 
-* Technically solid, 
-* moderate-to-high impact paper, 
+* Technically solid,
+* moderate-to-high impact paper,
 * with no major concerns with respect to evaluation, resources, reproducibility, ethical considerations.
 
-1: Borderline accept: 
+1: Borderline accept:
 
-* Technically solid paper 
+* Technically solid paper
 * where reasons to accept outweigh reasons to reject, e.g., limited evaluation.
