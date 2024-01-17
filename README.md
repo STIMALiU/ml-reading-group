@@ -25,24 +25,57 @@ __Week 3 (Jan 17)__ (*NOTE:* Odd week)
 Decide on topics for the spring.
 
 __Week 4 (Jan 24)__
+<br>
+__Topic: Diffusion Models__
+_- Host:_ Theodor, Filip, Dong
+
+*Elucidating the Design Space of Diffusion-Based Generative Models*
+<br>
+Tero Karras, Miika Aittala, Timo Aila, Samuli Laine
+<br>
+https://arxiv.org/abs/2206.00364
 
 __Week 6 (Feb 7)__ (*NOTE:* Change of location to John von Neumann ([map](https://www.ida.liu.se/department/location/search.en.shtml?keyword=von+neumann)))
+<br>
+__Topic: Diffusion Models__
+_- Host:_ Theodor, Filip, Dong
 
 __Week 8 (Feb 21)__
+<br>
+__Topic: Diffusion Models__
+_- Host:_ Theodor, Filip, Dong
 
 __Week 10 (Mar 6)__
+<br>
+__Topic: Neural Operators__
+_- Host:_ Joel, Samuel
 
 __Week 12 (Mar 20)__
+<br>
+__Reserved for potential guest__
 
 __Week 14 (Apr 3)__
+<br>
+__Topic: Neural Operators__
+_- Host:_ Joel, Samuel
 
 __Week 16 (Apr 17)__
+<br>
+__Reserved for potential guest__
 
 __Week 20 (May 15)__
+<br>
+__Reserved for potential guest__
 
 __Week 22 (May 29)__
+<br>
+__Topic: Transformers, beyond AIAYN__
+_- Host:_ Amanda, Hari
 
 __Week 24 (Jun 12)__
+<br>
+__Topic: Transformers, beyond AIAYN__
+_- Host:_ Amanda, Hari
 
 ## Earlier sessions
 
