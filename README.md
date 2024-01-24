@@ -35,10 +35,20 @@ Tero Karras, Miika Aittala, Timo Aila, Samuli Laine
 <br>
 https://arxiv.org/abs/2206.00364
 
+Our rating: 3.67 ± 0.47
+
 __Week 6 (Feb 7)__ (*NOTE:* Change of location to John von Neumann ([map](https://www.ida.liu.se/department/location/search.en.shtml?keyword=von+neumann)))
 <br>
 __Topic: Diffusion Models__
 _- Host:_ Theodor, Filip, Dong
+
+*Consistency Models*
+<br>
+Yang Song, Prafulla Dhariwal, Mark Chen, Ilya Sutskever
+<br>
+https://proceedings.mlr.press/v202/song23a
+
+*Related:* [Presentation by first author](https://neurips.cc/virtual/2023/workshop/66539) (starts at around 5:32:30).
 
 __Week 8 (Feb 21)__
 <br>
