@@ -50,6 +50,8 @@ https://proceedings.mlr.press/v202/song23a
 
 *Related:* [Presentation by first author](https://neurips.cc/virtual/2023/workshop/66539) (starts at around 5:32:30).
 
+Our rating: 3.2 ± 0.75
+
 __Week 8 (Feb 21)__
 <br>
 __Topic: Diffusion Models__
