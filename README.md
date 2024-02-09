@@ -57,6 +57,12 @@ __Week 8 (Feb 21)__
 __Topic: Diffusion Models__
 _- Host:_ Theodor, Filip, Dong
 
+*Practical and Asymptotically Exact Conditional Sampling in Diffusion Models*
+<br>
+Luhuan Wu, Brian L. Trippe, Christian A Naesseth, David Blei, John Patrick Cunningham 
+<br>
+https://openreview.net/forum?id=eWKqr1zcRv
+
 __Week 10 (Mar 6)__
 <br>
 __Topic: Neural Operators__
