@@ -63,6 +63,8 @@ Luhuan Wu, Brian L. Trippe, Christian A Naesseth, David Blei, John Patrick Cunni
 <br>
 https://openreview.net/forum?id=eWKqr1zcRv
 
+Our rating: 2.67 ± 1.25
+
 __Week 10 (Mar 6)__
 <br>
 __Topic: Neural Operators__
