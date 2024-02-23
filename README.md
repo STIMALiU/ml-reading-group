@@ -70,6 +70,12 @@ __Week 10 (Mar 6)__
 __Topic: Neural Operators__
 _- Host:_ Joel, Samuel
 
+*Fourier Neural Operator for Parametric Partial Differential Equations*
+<br>
+Zongyi Li, Nikola Kovachki, Kamyar Azizzadenesheli, Burigede Liu, Kaushik Bhattacharya, Andrew Stuart, Anima Anandkumar
+<br>
+https://arxiv.org/abs/2010.08895
+
 __Week 12 (Mar 20)__
 <br>
 __Reserved for potential guest__
