@@ -76,6 +76,8 @@ Zongyi Li, Nikola Kovachki, Kamyar Azizzadenesheli, Burigede Liu, Kaushik Bhatta
 <br>
 https://arxiv.org/abs/2010.08895
 
+Our rating: 3.33 ± 0.47
+
 __Week 12 (Mar 20)__
 <br>
 __Reserved for potential guest__
