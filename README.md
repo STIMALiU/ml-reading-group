@@ -80,7 +80,11 @@ Our rating: 3.33 ± 0.47
 
 __Week 12 (Mar 20)__
 <br>
-__Reserved for potential guest__
+*Learning Space-Time Continuous Latent Neural PDEs from Partially Observed States*
+<br>
+Valerii Iakovlev, Markus Heinonen, Harri Lähdesmäki
+<br>
+https://proceedings.neurips.cc/paper_files/paper/2023/hash/53e9b4152ca09d5f1228157e752651dd-Abstract-Conference.html
 
 __Week 14 (Apr 3)__
 <br>
