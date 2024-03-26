@@ -91,6 +91,12 @@ __Week 14 (Apr 3)__
 __Topic: Neural Operators__
 _- Host:_ Joel, Samuel
 
+*Spherical Fourier Neural Operators: Learning Stable Dynamics on the Sphere*
+<br>
+Boris Bonev, Thorsten Kurth, Christian Hundt, Jaideep Pathak, Maximilian Baust, Karthik Kashinath, Anima Anandkumar
+<br>
+https://arxiv.org/abs/2306.03838
+
 __Week 16 (Apr 17)__
 <br>
 __Reserved for potential guest__
