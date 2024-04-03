@@ -97,6 +97,8 @@ Boris Bonev, Thorsten Kurth, Christian Hundt, Jaideep Pathak, Maximilian Baust, 
 <br>
 https://arxiv.org/abs/2306.03838
 
+Our rating: 2.50 ± 0.5
+
 __Week 16 (Apr 17)__
 <br>
 __Reserved for potential guest__
