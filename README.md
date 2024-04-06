@@ -101,7 +101,14 @@ Our rating: 2.50 ± 0.5
 
 __Week 16 (Apr 17)__
 <br>
-__Reserved for potential guest__
+__Topic: Transformers, beyond AIAYN__
+_- Host:_ Amanda, Hari
+
+*Mamba: Linear-Time Sequence Modeling with Selective State Spaces*
+<br>
+Albert Gu, Tri Dao
+<br>
+https://arxiv.org/abs/2312.00752
 
 __Week 20 (May 15)__
 <br>
