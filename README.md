@@ -97,7 +97,7 @@ Boris Bonev, Thorsten Kurth, Christian Hundt, Jaideep Pathak, Maximilian Baust, 
 <br>
 https://arxiv.org/abs/2306.03838
 
-Our rating: 2.50 ± 0.5
+Our rating: 2.50 ± 0.50
 
 __Week 16 (Apr 17)__
 <br>
@@ -109,6 +109,8 @@ _- Host:_ Amanda, Hari
 Albert Gu, Tri Dao
 <br>
 https://arxiv.org/abs/2312.00752
+
+Our rating: 2.20 ± 0.97
 
 __Week 20 (May 15)__
 <br>
