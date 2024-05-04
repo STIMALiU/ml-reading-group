@@ -114,7 +114,13 @@ Our rating: 2.20 ± 0.97
 
 __Week 20 (May 15)__
 <br>
-__Reserved for potential guest__
+_guest:_ Yingzhen Li
+<br>
+*Sparse Uncertainty Representation in Deep Learning with Inducing Weights*
+<br>
+Hippolyt Ritter, Martin Kukla, Cheng Zhang, Yingzhen Li
+<br>
+https://arxiv.org/abs/2105.14594
 
 __Week 22 (May 29)__
 <br>
