@@ -127,6 +127,12 @@ __Week 22 (May 29)__
 __Topic: Transformers, beyond AIAYN__
 _- Host:_ Amanda, Hari
 
+*xLSTM: Extended Long Short-Term Memory*
+<br>
+Maximilian Beck, Korbinian Pöppel, Markus Spanring, Andreas Auer, Oleksandra Prudnikova, Michael Kopp, Günter Klambauer, Johannes Brandstetter, Sepp Hochreiter
+<br>
+https://arxiv.org/abs/2405.04517
+
 __Week 24 (Jun 12)__
 <br>
 __Topic: Transformers, beyond AIAYN__
