@@ -133,6 +133,8 @@ Maximilian Beck, Korbinian Pöppel, Markus Spanring, Andreas Auer, Oleksandra Pr
 <br>
 https://arxiv.org/abs/2405.04517
 
+Our rating: 1.29 ± 0.45
+
 __Week 24 (Jun 12)__
 <br>
 __Topic: Transformers, beyond AIAYN__
