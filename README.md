@@ -2,11 +2,11 @@
 The reading group is open to anyone who is interested in machine learning and who wants to meet up regularly to discuss ML research papers.
 If you want to get added to the mailing list or have any other questions feel free to contact [Joel Oskarsson](https://liu.se/en/employee/joeos82).
 
-For VT 2024 we will continue with the format where we stick to papers on the same topic for two subsequent sessions. The first session (January 17) will be devoted to deciding all the topics for the fall.
+For HT 2024 we will continue with the format where we stick to papers on the same topic for two subsequent sessions. The first session (September 4) will be devoted to deciding all the topics for the fall.
 
 ## Format
 * One or two people are designated the host for each topic (two sessions). They are responsible for choosing the papers to be discussed and for leading the discussion during the session.
-* We meet Wednesdays 10:15-12:00 on even weeks.
+* We meet Wednesdays 10:15-12:00 on odd weeks.
 * We will meet in Thomas Bayes, B-building ([map](https://www.ida.liu.se/department/location/search.en.shtml?keyword=thomas+bayes)).
 
 ## Host intstructions
@@ -18,138 +18,55 @@ For VT 2024 we will continue with the format where we stick to papers on the sam
 * Send out a link to the paper on the mailing list at least one week in advance.
 * As the host it is also good to somewhat lead the discussion during the session. If you want you can give a short description of why you chose this paper, but there is no need for any proper presentation. It might be a good idea to come to the session prepared with a few discussion points, just to keep the conversation going.
 
-## Schedule VT 2024
+## Schedule HT 2024
 
-__Week 3 (Jan 17)__ (*NOTE:* Odd week)
+__Week 36 (Sep 4)__ (*NOTE:* Even week)
 
-Decide on topics for the spring.
+Decide on topics for the fall.
 
-__Week 4 (Jan 24)__
+__Week 37 (Sep 11)__
 <br>
-__Topic: Diffusion Models__
-_- Host:_ Theodor, Filip, Dong
+__Topic: TBD__
+_- Host:_ TBD
 
-*Elucidating the Design Space of Diffusion-Based Generative Models*
+__Week 39 (Sep 25)__
 <br>
-Tero Karras, Miika Aittala, Timo Aila, Samuli Laine
-<br>
-https://arxiv.org/abs/2206.00364
+__Topic: TBD__
+_- Host:_ TBD
 
-Our rating: 3.67 ± 0.47
+__Week 41 (Oct 09)__ (*NOTE:* May be cancelled due to ELLIIT workshop)
+<br>
+__Topic: TBD__
+_- Host:_ TBD
 
-__Week 6 (Feb 7)__ (*NOTE:* Change of location to John von Neumann ([map](https://www.ida.liu.se/department/location/search.en.shtml?keyword=von+neumann)))
+__Week 43 (Oct 23)__
 <br>
-__Topic: Diffusion Models__
-_- Host:_ Theodor, Filip, Dong
+__Topic: TBD__
+_- Host:_ TBD
 
-*Consistency Models*
+__Week 45 (Nov 06)__
 <br>
-Yang Song, Prafulla Dhariwal, Mark Chen, Ilya Sutskever
-<br>
-https://proceedings.mlr.press/v202/song23a
+__Topic: TBD__
+_- Host:_ TBD
 
-*Related:* [Presentation by first author](https://neurips.cc/virtual/2023/workshop/66539) (starts at around 5:32:30).
+__Week 47 (Nov 20)__
+<br>
+__Topic: TBD__
+_- Host:_ TBD
 
-Our rating: 3.2 ± 0.75
+__Week 49 (Dec 04)__
+<br>
+__Topic: TBD__
+_- Host:_ TBD
 
-__Week 8 (Feb 21)__
+__Week 51 (Dec 18)__
 <br>
-__Topic: Diffusion Models__
-_- Host:_ Theodor, Filip, Dong
-
-*Practical and Asymptotically Exact Conditional Sampling in Diffusion Models*
-<br>
-Luhuan Wu, Brian L. Trippe, Christian A Naesseth, David Blei, John Patrick Cunningham 
-<br>
-https://openreview.net/forum?id=eWKqr1zcRv
-
-Our rating: 2.67 ± 1.25
-
-__Week 10 (Mar 6)__
-<br>
-__Topic: Neural Operators__
-_- Host:_ Joel, Samuel
-
-*Fourier Neural Operator for Parametric Partial Differential Equations*
-<br>
-Zongyi Li, Nikola Kovachki, Kamyar Azizzadenesheli, Burigede Liu, Kaushik Bhattacharya, Andrew Stuart, Anima Anandkumar
-<br>
-https://arxiv.org/abs/2010.08895
-
-Our rating: 3.33 ± 0.47
-
-__Week 12 (Mar 20)__
-<br>
-*Learning Space-Time Continuous Latent Neural PDEs from Partially Observed States*
-<br>
-Valerii Iakovlev, Markus Heinonen, Harri Lähdesmäki
-<br>
-https://proceedings.neurips.cc/paper_files/paper/2023/hash/53e9b4152ca09d5f1228157e752651dd-Abstract-Conference.html
-
-__Week 14 (Apr 3)__
-<br>
-__Topic: Neural Operators__
-_- Host:_ Joel, Samuel
-
-*Spherical Fourier Neural Operators: Learning Stable Dynamics on the Sphere*
-<br>
-Boris Bonev, Thorsten Kurth, Christian Hundt, Jaideep Pathak, Maximilian Baust, Karthik Kashinath, Anima Anandkumar
-<br>
-https://arxiv.org/abs/2306.03838
-
-Our rating: 2.50 ± 0.50
-
-__Week 16 (Apr 17)__
-<br>
-__Topic: Transformers, beyond AIAYN__
-_- Host:_ Amanda, Hari
-
-*Mamba: Linear-Time Sequence Modeling with Selective State Spaces*
-<br>
-Albert Gu, Tri Dao
-<br>
-https://arxiv.org/abs/2312.00752
-
-Our rating: 2.20 ± 0.97
-
-__Week 20 (May 15)__
-<br>
-_guest:_ Yingzhen Li
-<br>
-*Sparse Uncertainty Representation in Deep Learning with Inducing Weights*
-<br>
-Hippolyt Ritter, Martin Kukla, Cheng Zhang, Yingzhen Li
-<br>
-https://arxiv.org/abs/2105.14594
-
-__Week 22 (May 29)__
-<br>
-__Topic: Transformers, beyond AIAYN__
-_- Host:_ Amanda, Hari
-
-*xLSTM: Extended Long Short-Term Memory*
-<br>
-Maximilian Beck, Korbinian Pöppel, Markus Spanring, Andreas Auer, Oleksandra Prudnikova, Michael Kopp, Günter Klambauer, Johannes Brandstetter, Sepp Hochreiter
-<br>
-https://arxiv.org/abs/2405.04517
-
-Our rating: 1.29 ± 0.45
-
-__Week 24 (Jun 12)__
-<br>
-__Topic: Transformers, beyond AIAYN__
-_- Host:_ Amanda, Hari
-
-*What Can Transformers Learn In-Context? A Case Study of Simple Function Classes*
-<br>
-Shivam Garg, Dimitris Tsipras, Percy S. Liang, Gregory Valiant
-<br>
-https://proceedings.neurips.cc/paper_files/paper/2022/hash/c529dba08a146ea8d6cf715ae8930cbe-Abstract-Conference.html
-
-Our rating: 3.33 ± 0.47
+__Topic: TBD__
+_- Host:_ TBD
 
 ## Earlier sessions
 
+* [VT 2024](archive/2024vt.md)
 * [HT 2023](archive/2023ht.md)
 * [VT 2023](archive/2023vt.md)
 * [HT 2022](archive/2022ht.md)
