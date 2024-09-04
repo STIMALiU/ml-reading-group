@@ -29,6 +29,12 @@ __Week 37 (Sep 11)__
 __Topic: Flow matching__
 _- Host:_ Filip, Dong
 
+*Flow Matching for Generative Modeling*
+<br>
+Yaron Lipman, Ricky T. Q. Chen, Heli Ben-Hamu, Maximilian Nickel, Matthew Le
+<br>
+https://openreview.net/forum?id=PqvMRDCJT9t
+
 __Week 39 (Sep 25)__ (*NOTE:* Different time, 13:15 - 15:00)
 <br>
 __Topic: Machine Learning for Climate Science__
