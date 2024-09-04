@@ -26,43 +26,37 @@ Decide on topics for the fall.
 
 __Week 37 (Sep 11)__
 <br>
-__Topic: TBD__
-_- Host:_ TBD
+__Topic: Flow matching__
+_- Host:_ Filip, Dong
 
-__Week 39 (Sep 25)__
+__Week 39 (Sep 25)__ (*NOTE:* Different time, 13:15 - 15:00)
 <br>
-__Topic: TBD__
-_- Host:_ TBD
-
-__Week 41 (Oct 09)__ (*NOTE:* May be cancelled due to ELLIIT workshop)
-<br>
-__Topic: TBD__
-_- Host:_ TBD
+__Topic: Machine Learning for Climate Science__
+_- Host:_ Joel, Martin
 
 __Week 43 (Oct 23)__
 <br>
-__Topic: TBD__
-_- Host:_ TBD
+__Topic: Machine Learning for Climate Science__
+_- Host:_ Joel, Martin
 
 __Week 45 (Nov 06)__
 <br>
-__Topic: TBD__
-_- Host:_ TBD
+__Topic: Flow matching__
+_- Host:_ Filip, Dong
 
 __Week 47 (Nov 20)__
 <br>
-__Topic: TBD__
-_- Host:_ TBD
+__Topic: Parameter-efficient fine-tuning__
+_- Host:_ Hari, Erik
 
 __Week 49 (Dec 04)__
 <br>
-__Topic: TBD__
-_- Host:_ TBD
+__Topic: Reserved for potential seminar guest__
 
 __Week 51 (Dec 18)__
 <br>
-__Topic: TBD__
-_- Host:_ TBD
+__Topic: Parameter-efficient fine-tuning__
+_- Host:_ Hari, Erik
 
 ## Earlier sessions
 
