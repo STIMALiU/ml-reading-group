@@ -42,6 +42,19 @@ __Week 39 (Sep 25)__ (*NOTE:* Different time, 13:15 - 15:00)
 __Topic: Machine Learning for Climate Science__
 _- Host:_ Joel, Martin
 
+*DYffusion: A Dynamics-informed Diffusion Model for Spatiotemporal Forecasting*
+<br>
+Salva Rühling Cachay, Bo Zhao, Hailey Joren, Rose Yu
+<br>
+https://proceedings.neurips.cc/paper_files/paper/2023/hash/8df90a1440ce782d1f5607b7a38f2531-Abstract-Conference.html
+
+(Optional reading)
+* *Probabilistic Emulation of a Global Climate Model with Spherical DYffusion*
+  <br>
+  Salva Rühling Cachay, Brian Henn, Oliver Watt-Meyer, Christopher S. Bretherton, Rose Yu
+  <br>
+  https://arxiv.org/abs/2406.14798
+
 __Week 43 (Oct 23)__
 <br>
 __Topic: Machine Learning for Climate Science__
