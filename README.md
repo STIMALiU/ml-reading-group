@@ -55,6 +55,8 @@ https://proceedings.neurips.cc/paper_files/paper/2023/hash/8df90a1440ce782d1f560
   <br>
   https://arxiv.org/abs/2406.14798
 
+Our rating: 3.22 ± 0.63
+
 __Week 43 (Oct 23)__
 <br>
 __Topic: Machine Learning for Climate Science__
