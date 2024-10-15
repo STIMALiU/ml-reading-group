@@ -62,6 +62,14 @@ __Week 43 (Oct 23)__
 __Topic: Machine Learning for Climate Science__
 _- Host:_ Joel, Martin
 
+*Neural General Circulation Models for Weather and Climate*
+<br>
+Dmitrii Kochkov, Janni Yuval, Ian Langmore, Peter Norgaard, Jamie Smith, Griffin Mooers, Milan Klöwer, James Lottes, Stephan Rasp, Peter Düben, Sam Hatfield, Peter Battaglia, Alvaro Sanchez-Gonzalez, Matthew Willson, Michael P. Brenner, Stephan Hoyer
+<br>
+https://arxiv.org/abs/2311.07222
+
+* We will be focusing on the main paper + appendix B, C, D and G according to the interest of attendees.
+
 __Week 45 (Nov 06)__
 <br>
 __Topic: Flow matching__
