@@ -70,6 +70,8 @@ https://arxiv.org/abs/2311.07222
 
 * We will be focusing on the main paper + appendix B, C, D and G according to the interest of attendees.
 
+Our rating: 4.00 ± 0.57
+
 __Week 45 (Nov 06)__
 <br>
 __Topic: Flow matching__
