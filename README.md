@@ -77,6 +77,14 @@ __Week 45 (Nov 06)__
 __Topic: Flow matching__
 _- Host:_ Filip, Dong
 
+*Discrete Flow Matching*
+<br>
+Itai Gat, Tal Remez, Neta Shaul, Felix Kreuk, Ricky T. Q. Chen, Gabriel Synnaeve, Yossi Adi, Yaron Lipman
+<br>
+https://arxiv.org/abs/2407.15595
+
+* Related video: https://www.youtube.com/watch?v=fuzYeqp1n5g
+
 __Week 47 (Nov 20)__
 <br>
 __Topic: Parameter-efficient fine-tuning__
