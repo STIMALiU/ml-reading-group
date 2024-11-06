@@ -85,6 +85,8 @@ https://arxiv.org/abs/2407.15595
 
 * Related video: https://www.youtube.com/watch?v=fuzYeqp1n5g
 
+Our rating: 3.00 ± 0.63
+
 __Week 47 (Nov 20)__
 <br>
 __Topic: Parameter-efficient fine-tuning__
