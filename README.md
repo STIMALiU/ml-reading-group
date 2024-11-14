@@ -92,6 +92,12 @@ __Week 47 (Nov 20)__
 __Topic: Parameter-efficient fine-tuning__
 _- Host:_ Hari, Erik
 
+*LoRA: Low-Rank Adaptation of Large Language Models*
+<br>
+Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, Weizhu Chen
+<br>
+https://arxiv.org/abs/2106.09685 
+
 __Week 49 (Dec 04)__
 <br>
 __Topic: Reserved for potential seminar guest__
