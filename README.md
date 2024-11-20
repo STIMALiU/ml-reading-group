@@ -98,9 +98,11 @@ Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean W
 <br>
 https://arxiv.org/abs/2106.09685 
 
+Our rating: 3.00 ± 0.58
+
 __Week 49 (Dec 04)__
 <br>
-__Topic: Reserved for potential seminar guest__
+__Topic: TBA__
 
 __Week 51 (Dec 18)__
 <br>
