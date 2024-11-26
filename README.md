@@ -102,7 +102,13 @@ Our rating: 3.00 ± 0.58
 
 __Week 49 (Dec 04)__
 <br>
-__Topic: TBA__
+_Host:_ Joel
+
+*Position: The Platonic Representation Hypothesis*
+<br>
+Minyoung Huh, Brian Cheung, Tongzhou Wang, Phillip Isola
+<br>
+https://proceedings.mlr.press/v235/huh24a.html
 
 __Week 51 (Dec 18)__
 <br>
