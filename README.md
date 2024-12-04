@@ -110,6 +110,8 @@ Minyoung Huh, Brian Cheung, Tongzhou Wang, Phillip Isola
 <br>
 https://proceedings.mlr.press/v235/huh24a.html
 
+Our rating: 3.00 ± 0.82
+
 __Week 51 (Dec 18)__
 <br>
 __Topic: Parameter-efficient fine-tuning__
