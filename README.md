@@ -112,11 +112,6 @@ https://proceedings.mlr.press/v235/huh24a.html
 
 Our rating: 3.00 ± 0.82
 
-__Week 51 (Dec 18)__
-<br>
-__Topic: Parameter-efficient fine-tuning__
-_- Host:_ Hari, Erik
-
 ## Earlier sessions
 
 * [VT 2024](archive/2024vt.md)
