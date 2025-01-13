@@ -1,8 +1,8 @@
 # STIMA Machine Learning Reading Group
 The reading group is open to anyone who is interested in machine learning and who wants to meet up regularly to discuss ML research papers.
-If you want to get added to the mailing list or have any other questions feel free to contact [Joel Oskarsson](https://liu.se/en/employee/joeos82).
+If you want to get added to the mailing list or have any other questions feel free to contact [Martin Andrae](https://liu.se/en/employee/maran77).
 
-For HT 2024 we will continue with the format where we stick to papers on the same topic for two subsequent sessions. The first session (September 4) will be devoted to deciding all the topics for the fall.
+For VT 2025 we will continue with the format where we stick to papers on the same topic for two subsequent sessions. The first session (January 22) will be devoted to deciding all the topics for the fall.
 
 ## Format
 * One or two people are designated the host for each topic (two sessions). They are responsible for choosing the papers to be discussed and for leading the discussion during the session.
@@ -18,102 +18,70 @@ For HT 2024 we will continue with the format where we stick to papers on the sam
 * Send out a link to the paper on the mailing list at least one week in advance.
 * As the host it is also good to somewhat lead the discussion during the session. If you want you can give a short description of why you chose this paper, but there is no need for any proper presentation. It might be a good idea to come to the session prepared with a few discussion points, just to keep the conversation going.
 
-## Schedule HT 2024
+## Schedule VT 2025
 
-__Week 36 (Sep 4)__ (*NOTE:* Even week)
+__Week 4 (Jan 22)__ (*NOTE:* Even week)
 
 Decide on topics for the fall.
 
-__Week 37 (Sep 11)__
+__Week 5 (Jan 29)__
 <br>
-__Topic: Flow matching__
-_- Host:_ Filip, Dong
+__Topic: TBD__
+_- Host:_ TBD
 
-*Flow Matching for Generative Modeling*
+__Week 7 (Feb 12)__
 <br>
-Yaron Lipman, Ricky T. Q. Chen, Heli Ben-Hamu, Maximilian Nickel, Matthew Le
+__Topic: TBD__
+_- Host:_ TBD
+
+__Week 9 (Feb 26)__
 <br>
-https://openreview.net/forum?id=PqvMRDCJT9t
+__Topic: TBD__
+_- Host:_ TBD
 
-Our rating: 3.60 ± 0.49
-
-__Week 39 (Sep 25)__ (*NOTE:* Different time, 13:15 - 15:00)
+__Week 11 (Mar 12)__
 <br>
-__Topic: Machine Learning for Climate Science__
-_- Host:_ Joel, Martin
+__Topic: TBD__
+_- Host:_ TBD
 
-*DYffusion: A Dynamics-informed Diffusion Model for Spatiotemporal Forecasting*
+__Week 13 (Mar 26)__
 <br>
-Salva Rühling Cachay, Bo Zhao, Hailey Joren, Rose Yu
+__Topic: TBD__
+_- Host:_ TBD
+
+__Week 15 (Apr 9)__
 <br>
-https://proceedings.neurips.cc/paper_files/paper/2023/hash/8df90a1440ce782d1f5607b7a38f2531-Abstract-Conference.html
+__Topic: TBD__
+_- Host:_ TBD
 
-(Optional reading)
-* *Probabilistic Emulation of a Global Climate Model with Spherical DYffusion*
-  <br>
-  Salva Rühling Cachay, Brian Henn, Oliver Watt-Meyer, Christopher S. Bretherton, Rose Yu
-  <br>
-  https://arxiv.org/abs/2406.14798
-
-Our rating: 3.22 ± 0.63
-
-__Week 43 (Oct 23)__
+__Week 17 (Apr 23)__
 <br>
-__Topic: Machine Learning for Climate Science__
-_- Host:_ Joel, Martin
+__Topic: TBD__
+_- Host:_ TBD
 
-*Neural General Circulation Models for Weather and Climate*
+__Week 19 (May 7)__
 <br>
-Dmitrii Kochkov, Janni Yuval, Ian Langmore, Peter Norgaard, Jamie Smith, Griffin Mooers, Milan Klöwer, James Lottes, Stephan Rasp, Peter Düben, Sam Hatfield, Peter Battaglia, Alvaro Sanchez-Gonzalez, Matthew Willson, Michael P. Brenner, Stephan Hoyer
+__Topic: TBD__
+_- Host:_ TBD
+
+__Week 21 (May 21)__
 <br>
-https://arxiv.org/abs/2311.07222
+__Topic: TBD__
+_- Host:_ TBD
 
-* We will be focusing on the main paper + appendix B, C, D and G according to the interest of attendees.
-
-Our rating: 4.00 ± 0.57
-
-__Week 45 (Nov 06)__
+__Week 23 (Jun 4)__
 <br>
-__Topic: Flow matching__
-_- Host:_ Filip, Dong
+__Topic: TBD__
+_- Host:_ TBD
 
-*Discrete Flow Matching*
+__Week 25 (Jun 18)__
 <br>
-Itai Gat, Tal Remez, Neta Shaul, Felix Kreuk, Ricky T. Q. Chen, Gabriel Synnaeve, Yossi Adi, Yaron Lipman
-<br>
-https://arxiv.org/abs/2407.15595
-
-* Related video: https://www.youtube.com/watch?v=fuzYeqp1n5g
-
-Our rating: 3.00 ± 0.63
-
-__Week 47 (Nov 20)__
-<br>
-__Topic: Parameter-efficient fine-tuning__
-_- Host:_ Hari, Erik
-
-*LoRA: Low-Rank Adaptation of Large Language Models*
-<br>
-Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, Weizhu Chen
-<br>
-https://arxiv.org/abs/2106.09685 
-
-Our rating: 3.00 ± 0.58
-
-__Week 49 (Dec 04)__
-<br>
-_Host:_ Joel
-
-*Position: The Platonic Representation Hypothesis*
-<br>
-Minyoung Huh, Brian Cheung, Tongzhou Wang, Phillip Isola
-<br>
-https://proceedings.mlr.press/v235/huh24a.html
-
-Our rating: 3.00 ± 0.82
+__Topic: TBD__
+_- Host:_ TBD
 
 ## Earlier sessions
 
+* [HT 2024](archive/2024ht.md)
 * [VT 2024](archive/2024vt.md)
 * [HT 2023](archive/2023ht.md)
 * [VT 2023](archive/2023vt.md)
