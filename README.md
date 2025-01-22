@@ -8,7 +8,7 @@ For VT 2025 we will continue with the format where we stick to papers on the sam
 * One or two people are designated the host for each topic (two sessions). They are responsible for choosing the papers to be discussed and for leading the discussion during the session.
 * We meet Wednesdays 10:15-12:00 on odd weeks.
 * We will meet in Thomas Bayes, B-building ([map](https://www.ida.liu.se/department/location/search.en.shtml?keyword=thomas+bayes)).
-* To stimulate discussions we ask you to write down two observations about the paper and bring them to the session. This could be something you liked, disliked, did not understand, a connection you made or something else entirely.
+* To stimulate discussions we ask you to **write down two observations about the paper** and bring them to the session. This could be something you liked, disliked, did not understand, a connection you made or something else entirely.
 
 ## Host intstructions
 * Choose one paper for each session related to your topic that you think would be interesting to discuss in the reading group. In order to set a focus for the reading group we came up with the following short guidelines for how to choose papers:
@@ -27,7 +27,7 @@ Decide on topics for the fall.
 
 __Week 5 (Jan 29)__
 <br>
-__Topic: Beyond Diffusion & Flow Matching
+__Topic: Beyond Diffusion & Flow Matching__
 _- Host:_ Erik & Adi
 
 *Action Matching: Learning Stochastic Dynamics from Samples*
@@ -58,7 +58,7 @@ https://proceedings.mlr.press/v202/neklyudov23a/neklyudov23a.pdf
 
 __Week 7 (Feb 12)__
 <br>
-__Topic: Beyond Diffusion & Flow Matching
+__Topic: Beyond Diffusion & Flow Matching__
 _- Host:_ Erik & Adi
 
 ~__Week 9 (Feb 26)__~
@@ -67,42 +67,42 @@ _- Host:_ Erik & Adi
 
 __Week 11 (Mar 12)__
 <br>
-__Topic: Reserved for potential seminar guest
+__Topic: Reserved for potential seminar guest__
 _- Host:_ TBD
 
 __Week 13 (Mar 26)__
 <br>
-__Topic: Finetuning pretrained models
+__Topic: Finetuning pretrained models__
 _- Host:_ Iulian & Lisa
 
 __Week 15 (Apr 9)__
 <br>
-__Topic: Reserved for potential seminar guest
+__Topic: Reserved for potential seminar guest__
 _- Host:_ TBD
 
 __Week 17 (Apr 23)__
 <br>
-__Topic: Finetuning pretrained models
+__Topic: Finetuning pretrained models__
 _- Host:_ Iulian & Lisa
 
 __Week 19 (May 7)__
 <br>
-__Topic: Reserved for potential seminar guest
+__Topic: Reserved for potential seminar guest__
 _- Host:_ TBD
 
 __Week 21 (May 21)__
 <br>
-__Topic: ML for PDEs
+__Topic: ML for PDEs__
 _- Host:_ Martin & Fredrik
 
 __Week 23 (Jun 4)__
 <br>
-__Topic: AI Safety and Alignment
+__Topic: AI Safety and Alignment__
 _- Host:_ Filip & TBD
 
 __Week 25 (Jun 18)__
 <br>
-__Topic: ML for PDEs
+__Topic: ML for PDEs__
 _- Host:_ Martin & Fredrik
 
 ## Earlier sessions
