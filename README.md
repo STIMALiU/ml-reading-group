@@ -98,7 +98,7 @@ _- Host:_ Martin & Fredrik
 __Week 23 (Jun 4)__
 <br>
 __Topic: AI Safety and Alignment__
-_- Host:_ Filip & TBD
+_- Host:_ Filip & Hari
 
 __Week 25 (Jun 18)__
 <br>
