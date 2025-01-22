@@ -8,6 +8,7 @@ For VT 2025 we will continue with the format where we stick to papers on the sam
 * One or two people are designated the host for each topic (two sessions). They are responsible for choosing the papers to be discussed and for leading the discussion during the session.
 * We meet Wednesdays 10:15-12:00 on odd weeks.
 * We will meet in Thomas Bayes, B-building ([map](https://www.ida.liu.se/department/location/search.en.shtml?keyword=thomas+bayes)).
+* To stimulate discussions we ask you to write down two observations about the paper and bring them to the session. This could be something you liked, disliked, did not understand, a connection you made or something else entirely.
 
 ## Host intstructions
 * Choose one paper for each session related to your topic that you think would be interesting to discuss in the reading group. In order to set a focus for the reading group we came up with the following short guidelines for how to choose papers:
@@ -26,58 +27,83 @@ Decide on topics for the fall.
 
 __Week 5 (Jan 29)__
 <br>
-__Topic: TBD__
-_- Host:_ TBD
+__Topic: Beyond Diffusion & Flow Matching
+_- Host:_ Erik & Adi
+
+*Action Matching: Learning Stochastic Dynamics from Samples*
+<br>
+Kirill Neklyudov, Rob Brekelmans, Daniel Severo, Alireza Makhzani
+<br>
+https://proceedings.mlr.press/v202/neklyudov23a/neklyudov23a.pdf
+
+(Optional reading)
+* (Follow up work by same authors)
+  <br>
+  *A Computational Framework for Solving Wasserstein Lagrangian Flows*
+  <br>
+  Kirill Neklyudov, Rob Brekelmans, Alexander Tong, Lazar Atanackovic, Qiang Liu, Alireza Makhzani
+  <br>
+  https://arxiv.org/abs/2310.10649
+  <br>
+  
+* (Application to physics)
+  <br>
+  *Parametric model reduction of mean-field and stochastic systems via higher-order action matching*
+  <br>
+  Jules Berman, Tobias Blickhan, Benjamin Peherstorfer
+  <br>
+  https://openreview.net/forum?id=qyaz3XP0FN
+  <br>
+
 
 __Week 7 (Feb 12)__
 <br>
-__Topic: TBD__
-_- Host:_ TBD
+__Topic: Beyond Diffusion & Flow Matching
+_- Host:_ Erik & Adi
 
-__Week 9 (Feb 26)__
+~__Week 9 (Feb 26)__~
 <br>
-__Topic: TBD__
-_- Host:_ TBD
+**NO SESSION due to SMC Course**
 
 __Week 11 (Mar 12)__
 <br>
-__Topic: TBD__
+__Topic: Reserved for potential seminar guest
 _- Host:_ TBD
 
 __Week 13 (Mar 26)__
 <br>
-__Topic: TBD__
-_- Host:_ TBD
+__Topic: Finetuning pretrained models
+_- Host:_ Iulian & Lisa
 
 __Week 15 (Apr 9)__
 <br>
-__Topic: TBD__
+__Topic: Reserved for potential seminar guest
 _- Host:_ TBD
 
 __Week 17 (Apr 23)__
 <br>
-__Topic: TBD__
-_- Host:_ TBD
+__Topic: Finetuning pretrained models
+_- Host:_ Iulian & Lisa
 
 __Week 19 (May 7)__
 <br>
-__Topic: TBD__
+__Topic: Reserved for potential seminar guest
 _- Host:_ TBD
 
 __Week 21 (May 21)__
 <br>
-__Topic: TBD__
-_- Host:_ TBD
+__Topic: ML for PDEs
+_- Host:_ Martin & Fredrik
 
 __Week 23 (Jun 4)__
 <br>
-__Topic: TBD__
-_- Host:_ TBD
+__Topic: AI Safety and Alignment
+_- Host:_ Filip & TBD
 
 __Week 25 (Jun 18)__
 <br>
-__Topic: TBD__
-_- Host:_ TBD
+__Topic: ML for PDEs
+_- Host:_ Martin & Fredrik
 
 ## Earlier sessions
 
