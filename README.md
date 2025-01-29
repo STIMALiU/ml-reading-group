@@ -55,6 +55,8 @@ https://proceedings.mlr.press/v202/neklyudov23a/neklyudov23a.pdf
   https://openreview.net/forum?id=qyaz3XP0FN
   <br>
 
+  Our rating: 3 ± 0.63
+
 
 __Week 7 (Feb 12)__
 <br>
