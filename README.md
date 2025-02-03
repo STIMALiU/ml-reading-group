@@ -63,6 +63,13 @@ __Week 7 (Feb 12)__
 __Topic: Beyond Diffusion & Flow Matching__
 _- Host:_ Erik & Adi
 
+*Generator Matching: Generative modeling with arbitrary Markov processes*
+<br>
+Peter Holderrieth, Marton Havasi, Jason Yim, Neta Shaul, Itai Gat, Tommi Jaakkola, Brian Karrer, Ricky T. Q. Chen, Yaron Lipman
+<br>
+https://arxiv.org/abs/2410.20587
+<br>
+
 ~__Week 9 (Feb 26)__~
 <br>
 **NO SESSION due to SMC Course**
