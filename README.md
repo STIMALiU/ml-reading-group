@@ -70,6 +70,8 @@ Peter Holderrieth, Marton Havasi, Jason Yim, Neta Shaul, Itai Gat, Tommi Jaakkol
 https://arxiv.org/abs/2410.20587
 <br>
 
+Our rating: 2.75 ± 0.43
+
 ~__Week 9 (Feb 26)__~
 <br>
 **NO SESSION due to SMC Course**
