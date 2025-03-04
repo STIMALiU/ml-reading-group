@@ -78,8 +78,32 @@ Our rating: 2.75 ± 0.43
 
 __Week 11 (Mar 12)__
 <br>
-__Topic: Reserved for potential seminar guest__
-_- Host:_ TBD
+__Topic: ICLR Blogposts 2025__
+_- Host:_ Erik & Adi
+
+*A Visual Dive into Conditional Flow Matching*
+<br>
+Anne Gagneux, Ségolène Tiffany Martin, Rémi Emonet, Quentin Bertrand, Mathurin Massias
+<br>
+https://openreview.net/forum?id=M6MTUQc4um
+<br>
+
+(Optional reading that cover some other aspect of flows)
+
+* *Flow With What You Know*
+  <br>
+  Scott H. Hawley
+  <br>
+  https://openreview.net/forum?id=3XlPoJeDu4
+  <br>
+
+* *Diffusion Models and Gaussian Flow Matching: Two Sides of the Same Coin*
+  <br>
+  Ruiqi Gao, Emiel Hoogeboom, Jonathan Heek, Valentin De Bortoli, Kevin Patrick Murphy, Tim Salimans
+  <br>
+  https://openreview.net/forum?id=C8Yyg9wy0s
+  <br>
+
 
 __Week 13 (Mar 26)__
 <br>
