@@ -110,6 +110,14 @@ __Week 13 (Mar 26)__
 __Topic: Finetuning pretrained models__
 _- Host:_ Iulian & Lisa
 
+*LEVI: Generalizable Fine-tuning via Layer-wise Ensemble of Different Views*
+<br>
+Yuji Roh, Qingyun Liu, Huan Gui, Zhe Yuan, Yujin Tang, Steven Euijong Whang, Liang Liu, Shuchao Bi, Lichan Hong, Ed H. Chi, Zhe Zhao
+<br>
+https://proceedings.mlr.press/v235/roh24a.html
+<br>
+
+
 __Week 15 (Apr 9)__
 <br>
 __Topic: Reserved for potential seminar guest__
