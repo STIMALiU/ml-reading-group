@@ -117,6 +117,7 @@ Yuji Roh, Qingyun Liu, Huan Gui, Zhe Yuan, Yujin Tang, Steven Euijong Whang, Lia
 https://proceedings.mlr.press/v235/roh24a.html
 <br>
 
+Our rating: 1.75 ± 0.27
 
 __Week 15 (Apr 9)__
 <br>
