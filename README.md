@@ -121,8 +121,15 @@ Our rating: 1.75 ± 0.27
 
 __Week 15 (Apr 9)__
 <br>
-__Topic: Reserved for potential seminar guest__
-_- Host:_ TBD
+__Topic: Topological Data Analysis__
+_- Host:_ Mathieu Carrière
+
+*Diffeomorphic Interpolation for Efficient Persistence-Based Topological Optimization* 
+<br>
+Carrière, Mathieu, Marc Theveneau, and Théo Lacombe
+<br>
+https://proceedings.neurips.cc/paper_files/paper/2024/hash/2feff80094b297bcfb42dbb01f34b875-Abstract-Conference.html
+<br>
 
 __Week 17 (Apr 23)__
 <br>
