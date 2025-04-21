@@ -136,6 +136,13 @@ __Week 17 (Apr 23)__
 __Topic: Finetuning pretrained models__
 _- Host:_ Iulian & Lisa
 
+*Curriculum Fine-tuning of Vision Foundation Model for Medical Image Classification Under Label Noise* 
+<br>
+Yeonguk Yu Minhwan Ko Sungho Shin Kangmin Kim Kyoobin Lee
+<br>
+https://proceedings.neurips.cc/paper_files/paper/2024/hash/2093ed77c549eda95bd6f7212b735b43-Abstract-Conference.html
+<br>
+
 __Week 19 (May 7)__
 <br>
 __Topic: Reserved for potential seminar guest__
