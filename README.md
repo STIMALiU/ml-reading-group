@@ -145,7 +145,7 @@ https://proceedings.neurips.cc/paper_files/paper/2024/hash/2093ed77c549eda95bd6f
 
 __Week 19 (May 7)__
 <br>
-__Topic: __
+__Topic:__
 _- Host:_ Martin
 
 *Variational Bayesian Monte Carlo*
