@@ -145,8 +145,15 @@ https://proceedings.neurips.cc/paper_files/paper/2024/hash/2093ed77c549eda95bd6f
 
 __Week 19 (May 7)__
 <br>
-__Topic: Reserved for potential seminar guest__
-_- Host:_ TBD
+__Topic: __
+_- Host:_ Martin
+
+*Variational Bayesian Monte Carlo*
+<br>
+Luigi Acerbi
+<br>
+https://arxiv.org/abs/1810.05558
+<br>
 
 __Week 21 (May 21)__
 <br>
