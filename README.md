@@ -156,6 +156,7 @@ Luigi Acerbi
 <br>
 https://arxiv.org/abs/1810.05558
 <br>
+Our rating: 2.5 ± 0.5
 
 __Week 21 (May 21)__
 <br>
