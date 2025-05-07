@@ -143,6 +143,8 @@ Yeonguk Yu Minhwan Ko Sungho Shin Kangmin Kim Kyoobin Lee
 https://proceedings.neurips.cc/paper_files/paper/2024/hash/2093ed77c549eda95bd6f7212b735b43-Abstract-Conference.html
 <br>
 
+Our rating: 1.0 ± 0.33
+
 __Week 19 (May 7)__
 <br>
 __Topic:__
