@@ -162,6 +162,8 @@ __Week 21 (May 21)__
 <br>
 __Topic: ML for PDEs__
 _- Host:_ Martin & Fredrik
+<br>
+__OBS: Time changed to: 08.15-10.00__
 
 __Week 23 (Jun 4)__
 <br>
