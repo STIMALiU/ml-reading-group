@@ -10,7 +10,7 @@ For VT 2025 we will continue with the format where we stick to papers on the sam
 * We will meet in Thomas Bayes, B-building ([map](https://www.ida.liu.se/department/location/search.en.shtml?keyword=thomas+bayes)).
 * To stimulate discussions we ask you to **write down two observations about the paper** and bring them to the session. This could be something you liked, disliked, did not understand, a connection you made or something else entirely.
 
-## Host intstructions
+## Host instructions
 * Choose one paper for each session related to your topic that you think would be interesting to discuss in the reading group. In order to set a focus for the reading group we came up with the following short guidelines for how to choose papers:
   * The main topic of the paper should be core machine learning research. Try to avoid papers that just apply well known machine learning methods to specific application areas.
   * Make sure the paper is of high quality. Read through it yourself and try to gauge its quality. As a guideline, think that it should be publishable at a top machine learning conference (i.e. the paper should be of such quality, it does not have to actually be a short conference paper).
