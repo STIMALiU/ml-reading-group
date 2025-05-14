@@ -165,6 +165,13 @@ _- Host:_ Martin & Fredrik
 <br>
 __OBS: Time changed to: 08.15-10.00__
 
+*PDE-Refiner: Achieving Accurate Long Rollouts with Neural PDE Solvers*
+<br>
+Phillip Lippe, Bastiaan S. Veeling, Paris Perdikaris, Richard E. Turner, Johannes Brandstetter
+<br>
+https://proceedings.neurips.cc/paper_files/paper/2023/hash/d529b943af3dba734f8a7d49efcb6d09-Abstract-Conference.html
+<br>
+
 __Week 23 (Jun 4)__
 <br>
 __Topic: AI Safety and Alignment__
