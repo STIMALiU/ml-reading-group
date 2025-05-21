@@ -172,6 +172,8 @@ Phillip Lippe, Bastiaan S. Veeling, Paris Perdikaris, Richard E. Turner, Johanne
 https://proceedings.neurips.cc/paper_files/paper/2023/hash/d529b943af3dba734f8a7d49efcb6d09-Abstract-Conference.html
 <br>
 
+Our rating: 2.56 ± 0.5
+
 __Week 23 (Jun 4)__
 <br>
 __Topic: AI Safety and Alignment__
