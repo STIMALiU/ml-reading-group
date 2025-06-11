@@ -179,10 +179,24 @@ __Week 23 (Jun 4)__
 __Topic: AI Safety and Alignment__
 _- Host:_ Filip & Hari
 
+*Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs*
+<br>
+Jan Betley, Daniel Tan, Niels Warncke, Anna Sztyber-Betley, Xuchan Bao, Martín Soto, Nathan Labenz, Owain Evans
+<br>
+https://arxiv.org/abs/2502.17424
+<br>
+
 __Week 25 (Jun 18)__
 <br>
 __Topic: ML for PDEs__
 _- Host:_ Martin & Fredrik
+
+*Learning the Dynamics of Physical Systems from Sparse Observations with Finite Element Networks*
+<br>
+Marten Lienen, Stephan Günnemann
+<br>
+https://arxiv.org/abs/2203.08852
+<br>
 
 ## Earlier sessions
 
