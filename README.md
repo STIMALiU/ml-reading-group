@@ -186,6 +186,8 @@ Jan Betley, Daniel Tan, Niels Warncke, Anna Sztyber-Betley, Xuchan Bao, Martín 
 https://arxiv.org/abs/2502.17424
 <br>
 
+Our rating: 1.25 ± 0.43
+
 __Week 25 (Jun 18)__
 <br>
 __Topic: ML for PDEs__
@@ -197,6 +199,8 @@ Marten Lienen, Stephan Günnemann
 <br>
 https://arxiv.org/abs/2203.08852
 <br>
+
+Our rating: 3 ± 0.53
 
 ## Earlier sessions
 
