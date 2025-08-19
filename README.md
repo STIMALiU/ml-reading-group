@@ -25,6 +25,8 @@ __Week 35 (Aug 27)__
 <br>
 Decide on topics for the fall.
 
+__NOTE: We meet in Herbert Simon 10.15-11.15__
+
 __Week 37 (Sep 10)__
 <br>
 __Topic:__
