@@ -25,47 +25,45 @@ __Week 35 (Aug 27)__
 <br>
 Decide on topics for the fall.
 
-__NOTE: We meet in Herbert Simon 10.15-11.15__
-
 __Week 37 (Sep 10)__
 <br>
-__Topic:__
-_- Host:_ 
+__Topic: Inverse problems with diffusion priors__
+_- Host: Adi, Erik, Martin_ 
 
 __Week 39 (Sep 24)__
 <br>
-__Topic:__
-_- Host:_ 
+__Topic: Inverse problems with diffusion priors__
+_- Host: Adi, Erik, Martin_ 
 
 __Week 41 (Oct 8)__
 <br>
-__Topic:__
-_- Host:_ 
+__Topic: Heterogeneous domain adaptation__
+_- Host: Lisa, Marc_ 
 
 __Week 43 (Oct 22)__
 <br>
-__Topic:__
-_- Host:_ 
+__Topic: Heterogeneous domain adaptation__
+_- Host: Lisa, Marc_ 
 
 __Week 45 (Nov 5)__
 <br>
-__Topic:__
-_- Host:_ 
+__Topic: Sampling from unnormalized distributions using diffusion__
+_- Host: Martin, Jan_ 
 
 __Week 47 (Nov 19)__
 <br>
-__Topic:__
-_- Host:_ 
+__Topic: Neural ODEs__
+_- Host: Arezou, David_ 
 
 __Week 49 (Dec 3)__
 <br>
-__Topic:__
-_- Host:_ 
+__Topic: Convergence analysis of flows and diffusions__
+_- Host: Marc, Adi_ 
 
-__Week 51 (Dec 17)__
+__Week 51 (Dec 17 Note: Possibly cancel or move to Dec 10)__
 <br>
-__Topic:__
-_- Host:_ 
+__Topic: Neural ODEs__
+_- Host: Arezou, David_ 
 
 
 ## Earlier sessions
