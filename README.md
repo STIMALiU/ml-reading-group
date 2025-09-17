@@ -41,6 +41,12 @@ __Week 39 (Sep 24)__
 __Topic: Inverse problems with diffusion priors__
 _- Host: Adi, Erik, Martin_ 
 
+*Improving Diffusion Inverse Problem Solving with Decoupled Noise Annealing*
+<br>
+Bingliang Zhang, Wenda Chu, Julius Berner, Chenlin Meng, Anima Anandkumar, Yang Song
+<br>
+https://arxiv.org/abs/2407.01521
+
 __Week 41 (Oct 8)__
 <br>
 __Topic: Heterogeneous domain adaptation__
