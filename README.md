@@ -36,6 +36,8 @@ Hyungjin Chung, Jeongsol Kim, Michael T. Mccann, Marc L. Klasky, Jong Chul Ye
 <br>
 https://arxiv.org/abs/2209.14687
 
+Our rating: 3.54 ± 0.49
+
 __Week 39 (Sep 24)__
 <br>
 __Topic: Inverse problems with diffusion priors__
