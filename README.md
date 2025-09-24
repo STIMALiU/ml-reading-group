@@ -49,6 +49,8 @@ Bingliang Zhang, Wenda Chu, Julius Berner, Chenlin Meng, Anima Anandkumar, Yang 
 <br>
 https://arxiv.org/abs/2407.01521
 
+Our rating: 3.1 ± 0.54
+
 __Week 41 (Oct 8)__
 <br>
 __Topic: Heterogeneous domain adaptation__
