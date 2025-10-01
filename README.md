@@ -56,6 +56,12 @@ __Week 41 (Oct 8)__
 __Topic: Heterogeneous domain adaptation__
 _- Host: Lisa, Marc_ 
 
+*SuperGlue: Learning Feature Matching with Graph Neural Networks*
+<br>
+Paul-Edouard Sarlin, Daniel DeTone, Tomasz Malisiewicz, Andrew Rabinovich
+<br>
+https://openaccess.thecvf.com/content_CVPR_2020/papers/Sarlin_SuperGlue_Learning_Feature_Matching_With_Graph_Neural_Networks_CVPR_2020_paper.pdf
+
 __Week 43 (Oct 22)__
 <br>
 __Topic: Heterogeneous domain adaptation__
