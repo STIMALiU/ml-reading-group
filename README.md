@@ -69,6 +69,12 @@ __Week 43 (Oct 22)__
 __Topic: Heterogeneous domain adaptation__
 _- Host: Lisa, Marc_ 
 
+*Learn from Others and Be Yourself in Heterogeneous Federated Learning*
+<br>
+Wenke Huang, Mang Ye, Bo Du
+<br>
+https://openaccess.thecvf.com/content/CVPR2022/html/Huang_Learn_From_Others_and_Be_Yourself_in_Heterogeneous_Federated_Learning_CVPR_2022_paper.html
+
 __Week 45 (Nov 5)__
 <br>
 __Topic: Sampling from unnormalized distributions using diffusion__
