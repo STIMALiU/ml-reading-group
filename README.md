@@ -82,6 +82,12 @@ __Week 45 (Nov 5)__
 __Topic: Sampling from unnormalized distributions using diffusion__
 _- Host: Martin, Jan_ 
 
+*Improved sampling via learned diffusions*
+ <br>
+Richter, Lorenz and Berner, Julius
+<br>
+https://openreview.net/forum?id=h4pNROsO06
+
 __Week 47 (Nov 19)__
 <br>
 __Topic: Neural ODEs__
