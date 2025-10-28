@@ -84,7 +84,7 @@ _- Host: Martin, Jan_
 
 *Improved sampling via learned diffusions*
  <br>
-Richter, Lorenz and Berner, Julius
+Lorenz Richter, Julius Berner
 <br>
 https://openreview.net/forum?id=h4pNROsO06
 
