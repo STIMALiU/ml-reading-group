@@ -88,10 +88,18 @@ Lorenz Richter, Julius Berner
 <br>
 https://openreview.net/forum?id=h4pNROsO06
 
+Our rating: 3.0 ± 0.33
+
 __Week 47 (Nov 19)__
 <br>
 __Topic: Neural ODEs__
 _- Host: Arezou, David_ 
+
+*Neural Ordinary Differential Equations*
+ <br>
+Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud
+ <br>
+https://arxiv.org/pdf/1806.07366v5
 
 __Week 49 (Dec 3)__
 <br>
