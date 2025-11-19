@@ -101,6 +101,8 @@ Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud
  <br>
 https://arxiv.org/pdf/1806.07366v5
 
+Our rating: 3.6 ± 0.49
+
 __Week 49 (Dec 3)__
 <br>
 __Topic: Convergence analysis of flows and diffusions__
