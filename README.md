@@ -108,6 +108,12 @@ __Week 49 (Dec 3)__
 __Topic: Convergence analysis of flows and diffusions__
 _- Host: Marc, Adi_ 
 
+*Sampling is as easy as learning the score: theory for diffusion models with minimal data assumptions*
+<br>
+Sitan Chen, Sinho Chewi, Jerry Li, Yuanzhi Li, Adil Salim, Anru R. Zhang
+<br>
+<https://openreview.net/pdf?id=zyLVMgsZ0U_>
+
 __Week 51 (Dec 17 Note: Possibly cancel or move to Dec 10)__
 <br>
 __Topic: Neural ODEs__
