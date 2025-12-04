@@ -114,10 +114,16 @@ Sitan Chen, Sinho Chewi, Jerry Li, Yuanzhi Li, Adil Salim, Anru R. Zhang
 <br>
 <https://openreview.net/pdf?id=zyLVMgsZ0U_>
 
-__Week 51 (Dec 17 Note: Possibly cancel or move to Dec 10)__
+__Week 51 (Dec 10 Note: Moved one week earlier)__
 <br>
 __Topic: Neural ODEs__
 _- Host: Arezou, David_ 
+
+*Learning Stable Deep Dynamics Models*
+<br>
+Gaurav Manek, J. Zico Kolter
+<br>
+https://arxiv.org/abs/2001.06116
 
 
 ## Earlier sessions
