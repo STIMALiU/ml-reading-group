@@ -2,11 +2,11 @@
 The reading group is open to anyone who is interested in machine learning and who wants to meet up regularly to discuss ML research papers.
 If you want to get added to the mailing list or have any other questions feel free to contact [Martin Andrae](https://liu.se/en/employee/maran77).
 
-For HT 2025 we will continue with the format where we stick to papers on the same topic for two subsequent sessions. The first session (August 27) will be devoted to deciding all the topics for the fall.
+For VT 2026 we will continue with the format where we stick to papers on the same topic for two subsequent sessions. The first session (Jan 12) will be devoted to deciding all the topics for the fall.
 
 ## Format
 * One or two people are designated the host for each topic (two sessions). They are responsible for choosing the papers to be discussed and for leading the discussion during the session.
-* We meet Wednesdays 10:15-12:00 on odd weeks.
+* We meet Wednesdays 10:15-12:00 on **even** weeks. (Change from previous years)
 * We will meet in Thomas Bayes, B-building ([map](https://www.ida.liu.se/department/location/search.en.shtml?keyword=thomas+bayes)).
 * To stimulate discussions we ask you to **write down two observations about the paper** and bring them to the session. This could be something you liked, disliked, did not understand, a connection you made or something else entirely.
 
@@ -21,113 +21,72 @@ For HT 2025 we will continue with the format where we stick to papers on the sam
 
 ## Schedule HT 2025
 
-__Week 35 (Aug 27)__ 
+__Week 3 (Jan 12 11-12)__ 
+<br>
+__Location: Von Neumann__
 <br>
 Decide on topics for the fall.
 
-__Week 37 (Sep 10)__
+__Week 4 (Jan 21)__
 <br>
-__Topic: Inverse problems with diffusion priors__
-_- Host: Adi, Erik, Martin_ 
-
-*Diffusion Posterior Sampling for General Noisy Inverse Problems*
+__Location: Von Neumann__
 <br>
-Hyungjin Chung, Jeongsol Kim, Michael T. Mccann, Marc L. Klasky, Jong Chul Ye
+__Topic:__
+_- Host:_
+
+__Week 6 (Feb 4)__
 <br>
-https://arxiv.org/abs/2209.14687
+__Topic:__
+_- Host:_
 
-Our rating: 3.54 ± 0.49
-
-__Week 39 (Sep 24)__
+__Week 8 (Feb 18)__
 <br>
-__Topic: Inverse problems with diffusion priors__
-_- Host: Adi, Erik, Martin_ 
+__Topic:__
+_- Host:_
 
-*Improving Diffusion Inverse Problem Solving with Decoupled Noise Annealing*
+__Week 10 (Mar 4)__
 <br>
-Bingliang Zhang, Wenda Chu, Julius Berner, Chenlin Meng, Anima Anandkumar, Yang Song
+__Topic:__
+_- Host:_
+
+__Week 12 (Apr 1)__
 <br>
-https://arxiv.org/abs/2407.01521
+__Topic:__
+_- Host:_
 
-Our rating: 3.1 ± 0.54
-
-__Week 41 (Oct 8)__
+__Week 14 (Apr 15)__
 <br>
-__Topic: Heterogeneous domain adaptation__
-_- Host: Lisa, Marc_ 
+__Topic:__
+_- Host:_
 
-*SuperGlue: Learning Feature Matching with Graph Neural Networks*
+__Week 16 (Apr 29)__
 <br>
-Paul-Edouard Sarlin, Daniel DeTone, Tomasz Malisiewicz, Andrew Rabinovich
+__Topic:__
+_- Host:_
+
+__Week 18 (Apr 29)__
 <br>
-https://openaccess.thecvf.com/content_CVPR_2020/papers/Sarlin_SuperGlue_Learning_Feature_Matching_With_Graph_Neural_Networks_CVPR_2020_paper.pdf
+__Topic:__
+_- Host:_
 
-Our rating: 3.5 ± 0.5
-
-__Week 43 (Oct 22)__
+__Week 20 (May 13)__
 <br>
-__Topic: Heterogeneous domain adaptation__
-_- Host: Lisa, Marc_ 
+__Topic:__
+_- Host:_
 
-*Learn from Others and Be Yourself in Heterogeneous Federated Learning*
+__Week 22 (May 27)__
 <br>
-Wenke Huang, Mang Ye, Bo Du
+__Topic:__
+_- Host:_
+
+__Week 24 (Jun 10)__
 <br>
-https://openaccess.thecvf.com/content/CVPR2022/html/Huang_Learn_From_Others_and_Be_Yourself_in_Heterogeneous_Federated_Learning_CVPR_2022_paper.html
-
-Our rating: 2.0 ± 0
-
-__Week 45 (Nov 5)__
-<br>
-__Topic: Sampling from unnormalized distributions using diffusion__
-_- Host: Martin, Jan_ 
-
-*Improved sampling via learned diffusions*
- <br>
-Lorenz Richter, Julius Berner
-<br>
-https://openreview.net/forum?id=h4pNROsO06
-
-Our rating: 3.0 ± 0.33
-
-__Week 47 (Nov 19)__
-<br>
-__Topic: Neural ODEs__
-_- Host: Arezou, David_ 
-
-*Neural Ordinary Differential Equations*
- <br>
-Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud
- <br>
-https://arxiv.org/pdf/1806.07366v5
-
-Our rating: 3.6 ± 0.49
-
-__Week 49 (Dec 3)__
-<br>
-__Topic: Convergence analysis of flows and diffusions__
-_- Host: Marc, Adi_ 
-
-*Sampling is as easy as learning the score: theory for diffusion models with minimal data assumptions*
-<br>
-Sitan Chen, Sinho Chewi, Jerry Li, Yuanzhi Li, Adil Salim, Anru R. Zhang
-<br>
-<https://openreview.net/pdf?id=zyLVMgsZ0U_>
-
-__Week 51 (Dec 10 Note: Moved one week earlier)__
-<br>
-__Topic: Neural ODEs__
-_- Host: Arezou, David_ 
-
-*Learning Stable Deep Dynamics Models*
-<br>
-Gaurav Manek, J. Zico Kolter
-<br>
-https://arxiv.org/abs/2001.06116
-
+__Topic:__
+_- Host:_
 
 ## Earlier sessions
 
+* [HT 2025](archive/2025ht.md)
 * [VT 2025](archive/2025vt.md)
 * [HT 2024](archive/2024ht.md)
 * [VT 2024](archive/2024vt.md)
