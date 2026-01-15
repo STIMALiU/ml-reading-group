@@ -31,8 +31,15 @@ __Week 4 (Jan 21)__
 <br>
 __Location: Von Neumann__
 <br>
-__Topic:__
-_- Host:_
+__Topic: Discrete Diffusion__
+_- Host: Adi, Martin_
+<br>
+Simplified and Generalized Masked Diffusion for Discrete Data
+<br>
+Jiaxin Shi, Kehang Han, Zhe Wang, Arnaud Doucet, Michalis K. Titsias
+<br>
+https://proceedings.neurips.cc/paper_files/paper/2024/file/bad233b9849f019aead5e5cc60cef70f-Paper-Conference.pdf
+
 
 __Week 6 (Feb 4)__
 <br>
