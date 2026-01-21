@@ -1,4 +1,4 @@
-<img width="204" height="16" alt="image" src="https://github.com/user-attachments/assets/4a686547-d2ae-48aa-88d9-18555caebff1" /><img width="204" height="16" alt="image" src="https://github.com/user-attachments/assets/e6d4b56f-d13d-4242-81df-f53798204cd5" /># STIMA Machine Learning Reading Group
+# STIMA Machine Learning Reading Group
 The reading group is open to anyone who is interested in machine learning and who wants to meet up regularly to discuss ML research papers.
 If you want to get added to the mailing list or have any other questions feel free to contact [Martin Andrae](https://liu.se/en/employee/maran77).
 
