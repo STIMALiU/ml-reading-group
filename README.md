@@ -1,4 +1,4 @@
-# STIMA Machine Learning Reading Group
+<img width="204" height="16" alt="image" src="https://github.com/user-attachments/assets/4a686547-d2ae-48aa-88d9-18555caebff1" /><img width="204" height="16" alt="image" src="https://github.com/user-attachments/assets/e6d4b56f-d13d-4242-81df-f53798204cd5" /># STIMA Machine Learning Reading Group
 The reading group is open to anyone who is interested in machine learning and who wants to meet up regularly to discuss ML research papers.
 If you want to get added to the mailing list or have any other questions feel free to contact [Martin Andrae](https://liu.se/en/employee/maran77).
 
@@ -6,7 +6,7 @@ For VT 2026 we will continue with the format where we stick to papers on the sam
 
 ## Format
 * One or two people are designated the host for each topic (two sessions). They are responsible for choosing the papers to be discussed and for leading the discussion during the session.
-* We meet Wednesdays 10:15-12:00 on **even** weeks. (Change from previous years)
+* We meet Wednesdays **11.00**-12:00 on **even** weeks. (Change from previous years)
 * We will meet in Thomas Bayes, B-building ([map](https://www.ida.liu.se/department/location/search.en.shtml?keyword=thomas+bayes)).
 * To stimulate discussions we ask you to **write down two observations about the paper** and bring them to the session. This could be something you liked, disliked, did not understand, a connection you made or something else entirely.
 
@@ -31,7 +31,7 @@ __Week 4 (Jan 21)__
 <br>
 __Location: Von Neumann__
 <br>
-__Topic: Discrete Diffusion__
+__Topic: Diffusion__
 _- Host: Adi, Martin_
 <br>
 Simplified and Generalized Masked Diffusion for Discrete Data
@@ -40,56 +40,57 @@ Jiaxin Shi, Kehang Han, Zhe Wang, Arnaud Doucet, Michalis K. Titsias
 <br>
 https://proceedings.neurips.cc/paper_files/paper/2024/file/bad233b9849f019aead5e5cc60cef70f-Paper-Conference.pdf
 
+Our rating: 2.5 ± 0.5
 
 __Week 6 (Feb 4)__
 <br>
-__Topic:__
-_- Host:_
+__Topic: Diffusion__
+_- Host: Adi, Martin_
 
 __Week 8 (Feb 18)__
 <br>
-__Topic:__
-_- Host:_
+__Topic: Mechanistic Interpretability__
+_- Host: Filip, Martin_
 
 __Week 10 (Mar 4)__
 <br>
-__Topic:__
-_- Host:_
+__Topic: Controlled Generation__
+_- Host: Erik, Filip_
 
-__Week 12 (Apr 1)__
+__Week 12 (Mar 18)__
 <br>
-__Topic:__
-_- Host:_
+__Topic: Transformers 2026__
+_- Host: Lisa, Louis_
 
-__Week 14 (Apr 15)__
+__Week 14 (Apr 1)__
 <br>
-__Topic:__
-_- Host:_
+__Topic: Transformers 2026__
+_- Host: Lisa, Louis_
 
-__Week 16 (Apr 29)__
+__Week 16 (Apr 15)__
 <br>
-__Topic:__
-_- Host:_
+__Topic: CausalML__
+_- Host: Marc, Lisa_
 
 __Week 18 (Apr 29)__
 <br>
-__Topic:__
-_- Host:_
+__Topic: Sampling from unnormalized distributions__
+_- Host: Adi, Erik_
 
 __Week 20 (May 13)__
 <br>
-__Topic:__
-_- Host:_
+__Topic: Sampling from unnormalized distributions__
+_- Host: Adi, Erik_
 
 __Week 22 (May 27)__
 <br>
-__Topic:__
-_- Host:_
+__Topic: Representation Disentanglement__
+_- Host: Lisa, Louis_
 
 __Week 24 (Jun 10)__
 <br>
-__Topic:__
-_- Host:_
+__Topic: Representation Disentanglement__
+_- Host: Lisa, Louis_
 
 ## Earlier sessions
 
