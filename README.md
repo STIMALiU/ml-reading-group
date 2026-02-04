@@ -46,6 +46,14 @@ __Week 6 (Feb 4)__
 <br>
 __Topic: Diffusion__
 _- Host: Adi, Martin_
+<br>
+Branching Flows: Discrete, Continuous, and Manifold Flow Matching with Splits and Deletions
+<br>
+Lukas Billera, Hedwig Nora Nordlinder, Jack Collier Ryder, Anton Oresten, Aron Stålmarck, Theodor Mosetti Björk, Ben Murrell
+<br>
+https://arxiv.org/abs/2511.09465
+
+Our rating: 1.5 ± 0.5
 
 __Week 8 (Feb 18)__
 <br>
