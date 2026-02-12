@@ -59,6 +59,15 @@ __Week 8 (Feb 18)__
 <br>
 __Topic: Mechanistic Interpretability__
 _- Host: Filip, Martin_
+<br>
+Towards Automated Circuit Discovery for Mechanistic Interpretability, Arthur Conmy, Augustine Mavor-Parker, Aengus Lynch, Stefan 
+<br>
+Heimersheim, Adrià Garriga-Alonso
+<br>
+https://proceedings.neurips.cc/paper_files/paper/2023/file/34e1dbe95d34d7ebaf99b9bcaeb5b2be-Paper-Conference.pdf
+ 
+As some optional additional reading, the paper A Primer on the Inner Workings of Transformer-based Language Models by Javier Ferrando et al. (https://arxiv.org/abs/2405.00208) provides some more background on the topic, and could potentially be used as a source for (alternative) explanations of terms used in the main paper.
+ 
 
 __Week 10 (Mar 4)__
 <br>
