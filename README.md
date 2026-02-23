@@ -72,8 +72,8 @@ Our rating: 1.14 ± 0.35
 
 __Week 10 (Mar 4)__
 <br>
-__Topic: Controlled Generation__
-_- Host: Erik, Filip_
+__Topic: CausalML__
+_- Host: Marc, Lisa_
 
 __Week 12 (Mar 18)__
 <br>
@@ -87,8 +87,8 @@ _- Host: Lisa, Louis_
 
 __Week 16 (Apr 15)__
 <br>
-__Topic: CausalML__
-_- Host: Marc, Lisa_
+__Topic: Controlled Generation__
+_- Host: Erik, Filip_
 
 __Week 18 (Apr 29)__
 <br>
