@@ -74,6 +74,14 @@ __Week 10 (Mar 4)__
 <br>
 __Topic: CausalML__
 _- Host: Marc, Lisa_
+<br>
+Double/Debiased/Neyman Machine Learning of Treatment Effects
+<br>
+Victor Chernozhukov, Denis Chetverikov, Mert Demirer, Esther Duflo, Christian Hansen, Whitney Newey
+<br>
+https://pubs-aeaweb-org.e.bibl.liu.se/doi/pdfplus/10.1257/aer.p20171038
+
+The note gives a short overview of the topic and focuses on one specific application (estimation of average treatment effects). It is based on the original paper from the same authors, which you can read if you would like to know more details about the theory (https://academic.oup.com/ectj/article/21/1/C1/5056401). However, it is an econometrics paper and 60 pages long and therefore not suited for our reading group.
 
 __Week 12 (Mar 18)__
 <br>
