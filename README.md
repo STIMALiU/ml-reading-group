@@ -90,6 +90,13 @@ __Week 12 (Mar 18)__
 __Topic: Transformers 2026__
 _- Host: Lisa, Louis_
 
+Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality
+<br>
+Tri Dao, Albert Gu
+<br>
+https://proceedings.mlr.press/v235/dao24a.html
+<br>
+
 __Week 14 (Apr 1)__
 <br>
 __Topic: Transformers 2026__
