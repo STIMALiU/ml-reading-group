@@ -97,6 +97,8 @@ Tri Dao, Albert Gu
 https://proceedings.mlr.press/v235/dao24a.html
 <br>
 
+Our rating: 2.1 ± 1.04
+
 __Week 14 (Apr 1)__
 <br>
 __Topic: Transformers 2026__
