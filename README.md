@@ -104,6 +104,13 @@ __Week 14 (Apr 1)__
 __Topic: Transformers 2026__
 _- Host: Lisa, Louis_
 
+Why Transformers Need Adam: A Hessian Perspective
+<br>
+Yushun Zhang, Congliang Chen, Tian Ding, Ziniu Li, Ruoyu Sun, Zhi-Quan Luo
+<br>
+https://arxiv.org/abs/2402.16788
+<br>
+
 __Week 16 (Apr 15)__
 <br>
 __Topic: Controlled Generation__
