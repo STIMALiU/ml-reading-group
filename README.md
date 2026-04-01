@@ -111,6 +111,9 @@ Yushun Zhang, Congliang Chen, Tian Ding, Ziniu Li, Ruoyu Sun, Zhi-Quan Luo
 https://arxiv.org/abs/2402.16788
 <br>
 
+Our rating: 1.25 ± 0.43
+
+
 __Week 16 (Apr 15)__
 <br>
 __Topic: Controlled Generation__
