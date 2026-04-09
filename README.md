@@ -117,7 +117,13 @@ Our rating: 1.25 ± 0.43
 __Week 16 (Apr 15)__
 <br>
 __Topic: Controlled Generation__
-_- Host: Erik, Filip_
+_- Host: Adi, Filip_
+
+Guiding a Diffusion Model with a Bad Version of Itself
+<br>
+Tero Karras, Miika Aittala, Tuomas Kynkäänniemi, Jaakko Lehtinen, Timo Aila, Samuli Laine
+<br>
+https://arxiv.org/pdf/2406.02507
 
 __Week 18 (Apr 29)__
 <br>
@@ -126,8 +132,8 @@ _- Host: Adi, Erik_
 
 __Week 20 (May 13)__
 <br>
-__Topic: Sampling from unnormalized distributions__
-_- Host: Adi, Erik_
+__Topic: Representation Disentanglement__
+_- Host: Lisa, Louis_
 
 __Week 22 (May 27)__
 <br>
@@ -136,8 +142,9 @@ _- Host: Lisa, Louis_
 
 __Week 24 (Jun 10)__
 <br>
-__Topic: Representation Disentanglement__
-_- Host: Lisa, Louis_
+__Topic: Sampling from unnormalized distributions__
+_- Host: Adi, Erik_
+
 
 ## Earlier sessions
 
