@@ -125,6 +125,8 @@ Tero Karras, Miika Aittala, Tuomas Kynkäänniemi, Jaakko Lehtinen, Timo Aila, S
 <br>
 https://arxiv.org/pdf/2406.02507
 
+Our rating: 2.8 ± 0.75
+
 __Week 18 (Apr 29)__
 <br>
 __Topic: Sampling from unnormalized distributions__
