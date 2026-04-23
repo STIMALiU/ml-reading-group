@@ -132,6 +132,13 @@ __Week 18 (Apr 29)__
 __Topic: Sampling from unnormalized distributions__
 _- Host: Adi, Erik_
 
+NETS: A Non-equilibrium Transport Sampler
+<br>
+Michael S. Albergo, Eric Vanden-Eijnden
+<br>
+https://openreview.net/forum?id=QqGw9StPbQ
+
+
 __Week 20 (May 13)__
 <br>
 __Topic: Representation Disentanglement__
