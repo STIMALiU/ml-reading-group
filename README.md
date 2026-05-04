@@ -138,6 +138,7 @@ Michael S. Albergo, Eric Vanden-Eijnden
 <br>
 https://openreview.net/forum?id=QqGw9StPbQ
 
+Our rating: 3.0 ± 0.0
 
 __Week 20 (May 13)__
 <br>
