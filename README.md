@@ -145,6 +145,14 @@ __Week 20 (May 13)__
 __Topic: Representation Disentanglement__
 _- Host: Lisa, Louis_
 
+Disentangling Disentanglement in Variational Autoencoders
+<br>
+Emile Mathieu, Tom Rainforth, N Siddharth, Yee Whye Teh
+<br>
+Proceedings of the 36th International Conference on Machine Learning, PMLR 97:4402-4412, 2019.
+<br>
+https://proceedings.mlr.press/v97/mathieu19a/mathieu19a.pdf
+
 __Week 22 (May 27)__
 <br>
 __Topic: Representation Disentanglement__
