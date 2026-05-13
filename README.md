@@ -153,6 +153,8 @@ Proceedings of the 36th International Conference on Machine Learning, PMLR 97:44
 <br>
 https://proceedings.mlr.press/v97/mathieu19a/mathieu19a.pdf
 
+Our rating: 3.0 ± 0.0
+
 __Week 22 (May 27)__
 <br>
 __Topic: Representation Disentanglement__
