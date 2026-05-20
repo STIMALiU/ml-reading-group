@@ -160,6 +160,12 @@ __Week 22 (May 27)__
 __Topic: Representation Disentanglement__
 _- Host: Lisa, Louis_
 
+Isolating Sources of Disentanglement in Variational Autoencoders
+<br>
+Ricky T. Q. Chen, Xuechen Li, Roger B Grosse, David K. Duvenaud (2018). Advances in Neural Information Processing Systems (Vol. 31).
+<br>
+https://proceedings.neurips.cc/paper_files/paper/2018/hash/1ee3dfcd8a0645a25a35977997223d22-Abstract.html
+
 __Week 24 (Jun 10)__
 <br>
 __Topic: Sampling from unnormalized distributions__
