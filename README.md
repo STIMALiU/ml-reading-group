@@ -166,11 +166,22 @@ Ricky T. Q. Chen, Xuechen Li, Roger B Grosse, David K. Duvenaud (2018). Advances
 <br>
 https://proceedings.neurips.cc/paper_files/paper/2018/hash/1ee3dfcd8a0645a25a35977997223d22-Abstract.html
 
+Our rating: 3.0 ± 0.0
+
 __Week 24 (Jun 10)__
 <br>
 __Topic: Sampling from unnormalized distributions__
 _- Host: Adi, Erik_
 
+Sampling in Unit Time with Kernel Fisher-Rao Flow
+<br>
+Maurais, A. &amp; Marzouk, Y.. (2024). 
+<br>
+Proceedings of the 41st International Conference on Machine Learning, in Proceedings of Machine Learning Research 235:35138-35162 
+<br>
+https://proceedings.mlr.press/v235/maurais24a.html 
+
+Our rating: 2.75 ± 0.82
 
 ## Earlier sessions
 
