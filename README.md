@@ -2,11 +2,11 @@
 The reading group is open to anyone who is interested in machine learning and who wants to meet up regularly to discuss ML research papers.
 If you want to get added to the mailing list or have any other questions feel free to contact [Martin Andrae](https://liu.se/en/employee/maran77).
 
-For VT 2026 we will continue with the format where we stick to papers on the same topic for two subsequent sessions. The first session (Jan 12) will be devoted to deciding all the topics for the fall.
+For HT 2026 we will continue with the format where we stick to papers on the same topic for two subsequent sessions. The first session (Aug 26) will be devoted to deciding all the topics for the fall.
 
 ## Format
 * One or two people are designated the host for each topic (two sessions). They are responsible for choosing the papers to be discussed and for leading the discussion during the session.
-* We meet Wednesdays **11.00**-12:00 on **even** weeks. (Change from previous years)
+* We meet Wednesdays **11.00**-12:00 on **odd** weeks. (Change from previous years)
 * We will meet in Thomas Bayes, B-building ([map](https://www.ida.liu.se/department/location/search.en.shtml?keyword=thomas+bayes)).
 * To stimulate discussions we ask you to **write down two observations about the paper** and bring them to the session. This could be something you liked, disliked, did not understand, a connection you made or something else entirely.
 
@@ -21,170 +21,52 @@ For VT 2026 we will continue with the format where we stick to papers on the sam
 
 ## Schedule HT 2025
 
-__Week 3 (Jan 12 11-12)__ 
+__Week 35 (Aug 26)__ 
 <br>
-__Location: Von Neumann__
-<br>
-Decide on topics for the fall.
+Decide on topics and format for the fall.
 
-__Week 4 (Jan 21)__
+__Week 37 (Sep 9)__
 <br>
-__Location: Von Neumann__
-<br>
-__Topic: Diffusion__
-_- Host: Adi, Martin_
-<br>
-Simplified and Generalized Masked Diffusion for Discrete Data
-<br>
-Jiaxin Shi, Kehang Han, Zhe Wang, Arnaud Doucet, Michalis K. Titsias
-<br>
-https://proceedings.neurips.cc/paper_files/paper/2024/file/bad233b9849f019aead5e5cc60cef70f-Paper-Conference.pdf
+__Topic:__
+_- Host:_
 
-Our rating: 2.5 ± 0.5
+__Week 39 (Sep 23)__
+<br>
+__Topic:__
+_- Host:_
 
-__Week 6 (Feb 4)__
+__Week 41 (Oct 7)__
 <br>
-__Topic: Diffusion__
-_- Host: Adi, Martin_
-<br>
-Branching Flows: Discrete, Continuous, and Manifold Flow Matching with Splits and Deletions
-<br>
-Lukas Billera, Hedwig Nora Nordlinder, Jack Collier Ryder, Anton Oresten, Aron Stålmarck, Theodor Mosetti Björk, Ben Murrell
-<br>
-https://arxiv.org/abs/2511.09465
+__Topic:__
+_- Host:_
 
-Our rating: 1.5 ± 0.5
+__Week 43 (Oct 21)__
+<br>
+__Topic:__
+_- Host:_
 
-__Week 8 (Feb 18)__
+__Week 45 (Nov 4)__
 <br>
-__Topic: Mechanistic Interpretability__
-_- Host: Filip, Martin_
-<br>
-Towards Automated Circuit Discovery for Mechanistic Interpretability, Arthur Conmy, Augustine Mavor-Parker, Aengus Lynch, Stefan 
-<br>
-Heimersheim, Adrià Garriga-Alonso
-<br>
-https://proceedings.neurips.cc/paper_files/paper/2023/file/34e1dbe95d34d7ebaf99b9bcaeb5b2be-Paper-Conference.pdf
- 
-As some optional additional reading, the paper A Primer on the Inner Workings of Transformer-based Language Models by Javier Ferrando et al. (https://arxiv.org/abs/2405.00208) provides some more background on the topic, and could potentially be used as a source for (alternative) explanations of terms used in the main paper.
+__Topic:__
+_- Host:_
 
-Our rating: 1.14 ± 0.35
+__Week 47 (Nov 18)__
+<br>
+__Topic:__
+_- Host:_
 
-__Week 10 (Mar 4)__
+__Week 49 (Dec 2)__
 <br>
-__Topic: CausalML__
-_- Host: Marc, Lisa_
-<br>
-Double/Debiased/Neyman Machine Learning of Treatment Effects
-<br>
-Victor Chernozhukov, Denis Chetverikov, Mert Demirer, Esther Duflo, Christian Hansen, Whitney Newey
-<br>
-https://pubs-aeaweb-org.e.bibl.liu.se/doi/pdfplus/10.1257/aer.p20171038
+__Topic:__
+_- Host:_
 
-The note gives a short overview of the topic and focuses on one specific application (estimation of average treatment effects). It is based on the original paper from the same authors, which you can read if you would like to know more details about the theory (https://academic.oup.com/ectj/article/21/1/C1/5056401). However, it is an econometrics paper and 60 pages long and therefore not suited for our reading group.
-
-Our rating: 2.41 ± 0.84
-
-__Week 12 (Mar 18)__
+__Week 51 (Dec 16)__
 <br>
-__Topic: Transformers 2026__
-_- Host: Lisa, Louis_
-
-Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality
-<br>
-Tri Dao, Albert Gu
-<br>
-https://proceedings.mlr.press/v235/dao24a.html
-<br>
-
-Our rating: 2.1 ± 1.04
-
-__Week 14 (Apr 1)__
-<br>
-__Topic: Transformers 2026__
-_- Host: Lisa, Louis_
-
-Why Transformers Need Adam: A Hessian Perspective
-<br>
-Yushun Zhang, Congliang Chen, Tian Ding, Ziniu Li, Ruoyu Sun, Zhi-Quan Luo
-<br>
-https://arxiv.org/abs/2402.16788
-<br>
-
-Our rating: 1.25 ± 0.43
-
-
-__Week 16 (Apr 15)__
-<br>
-__Topic: Controlled Generation__
-_- Host: Adi, Filip_
-
-Guiding a Diffusion Model with a Bad Version of Itself
-<br>
-Tero Karras, Miika Aittala, Tuomas Kynkäänniemi, Jaakko Lehtinen, Timo Aila, Samuli Laine
-<br>
-https://arxiv.org/pdf/2406.02507
-
-Our rating: 2.8 ± 0.75
-
-__Week 18 (Apr 29)__
-<br>
-__Topic: Sampling from unnormalized distributions__
-_- Host: Adi, Erik_
-
-NETS: A Non-equilibrium Transport Sampler
-<br>
-Michael S. Albergo, Eric Vanden-Eijnden
-<br>
-https://openreview.net/forum?id=QqGw9StPbQ
-
-Our rating: 3.0 ± 0.0
-
-__Week 20 (May 13)__
-<br>
-__Topic: Representation Disentanglement__
-_- Host: Lisa, Louis_
-
-Disentangling Disentanglement in Variational Autoencoders
-<br>
-Emile Mathieu, Tom Rainforth, N Siddharth, Yee Whye Teh
-<br>
-Proceedings of the 36th International Conference on Machine Learning, PMLR 97:4402-4412, 2019.
-<br>
-https://proceedings.mlr.press/v97/mathieu19a/mathieu19a.pdf
-
-Our rating: 3.0 ± 0.0
-
-__Week 22 (May 27)__
-<br>
-__Topic: Representation Disentanglement__
-_- Host: Lisa, Louis_
-
-Isolating Sources of Disentanglement in Variational Autoencoders
-<br>
-Ricky T. Q. Chen, Xuechen Li, Roger B Grosse, David K. Duvenaud (2018). Advances in Neural Information Processing Systems (Vol. 31).
-<br>
-https://proceedings.neurips.cc/paper_files/paper/2018/hash/1ee3dfcd8a0645a25a35977997223d22-Abstract.html
-
-Our rating: 3.0 ± 0.0
-
-__Week 24 (Jun 10)__
-<br>
-__Topic: Sampling from unnormalized distributions__
-_- Host: Adi, Erik_
-
-Sampling in Unit Time with Kernel Fisher-Rao Flow
-<br>
-Maurais, A. &amp; Marzouk, Y.. (2024). 
-<br>
-Proceedings of the 41st International Conference on Machine Learning, in Proceedings of Machine Learning Research 235:35138-35162 
-<br>
-https://proceedings.mlr.press/v235/maurais24a.html 
-
-Our rating: 2.75 ± 0.82
+__Topic:__
+_- Host:_
 
 ## Earlier sessions
-
+* [VT 2026](archive/2026vt.md)
 * [HT 2025](archive/2025ht.md)
 * [VT 2025](archive/2025vt.md)
 * [HT 2024](archive/2024ht.md)
