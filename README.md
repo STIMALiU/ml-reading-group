@@ -42,6 +42,8 @@ _- Host:_
 
 __Week 43 (Oct 21)__
 <br>
+Location TBA
+<br>
 __Topic:__
 _- Host:_
 
