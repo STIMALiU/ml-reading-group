@@ -19,7 +19,7 @@ For HT 2026 we will continue with the format where we stick to papers on the sam
 * Send out a link to the paper on the mailing list at least one week in advance.
 * As the host it is also good to somewhat lead the discussion during the session. If you want you can give a short description of why you chose this paper, but there is no need for any proper presentation. It might be a good idea to come to the session prepared with a few discussion points, just to keep the conversation going.
 
-## Schedule HT 2025
+## Schedule HT 2026
 
 __Week 35 (Aug 26)__ 
 <br>
