@@ -27,45 +27,45 @@ Decide on topics and format for the fall.
 
 __Week 37 (Sep 9)__
 <br>
-__Topic:__
-_- Host:_
+__Topic: Hot topics: World models__
+_- Host: Lisa, Erik W_
 
 __Week 39 (Sep 23)__
 <br>
-__Topic:__
-_- Host:_
+__Topic: Explainable AI__
+_- Host: Martin, Marc_
 
 __Week 41 (Oct 7)__
 <br>
-__Topic:__
-_- Host:_
+__Topic: Explainable AI__
+_- Host: Martin, Marc_
 
 __Week 43 (Oct 21)__
 <br>
 Location TBA
 <br>
-__Topic:__
-_- Host:_
+__Topic: Quantum Machine Learning__
+_- Host: Martin, Erik R_
 
 __Week 45 (Nov 4)__
 <br>
-__Topic:__
-_- Host:_
+__Topic: Gaussian processes__
+_- Host: Adi, Leo_
 
 __Week 47 (Nov 18)__
 <br>
-__Topic:__
-_- Host:_
+__Topic: Position papers__
+_- Host: Erik W, Adi_
 
 __Week 49 (Dec 2)__
 <br>
-__Topic:__
-_- Host:_
+__Topic: Machine Learning for point clouds__
+_- Host: Leo, Lisa_
 
 __Week 51 (Dec 16)__
 <br>
-__Topic:__
-_- Host:_
+__Topic: Hot topics: ?__
+_- Host: ?_
 
 ## Earlier sessions
 * [VT 2026](archive/2026vt.md)
