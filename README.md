@@ -29,6 +29,12 @@ __Week 37 (Sep 9)__
 <br>
 __Topic: Hot topics: World models__
 _- Host: Lisa, Erik W_
+<br>
+LeJEPA: Provable and Scalable Self-Supervised Learning Without the Heuristics
+<br>
+Randall Balestriero & Yann LeCun
+<br>
+https://arxiv.org/abs/2511.08544
 
 __Week 39 (Sep 23)__
 <br>
