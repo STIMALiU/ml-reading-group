@@ -40,6 +40,13 @@ __Week 39 (Sep 23)__
 <br>
 __Topic: Explainable AI__
 _- Host: Martin, Marc_
+<br>
+Discovering Symbolic Models from Deep Learning with Inductive Biases
+<br>
+Miles Cranmer, Alvaro Sanchez-Gonzalez, Peter Battaglia, Rui Xu, Kyle Cranmer, David Spergel, Shirley Ho
+<br>
+https://arxiv.org/abs/2006.11287
+<br>
 
 __Week 41 (Oct 7)__
 <br>
