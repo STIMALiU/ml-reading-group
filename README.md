@@ -47,6 +47,8 @@ Miles Cranmer, Alvaro Sanchez-Gonzalez, Peter Battaglia, Rui Xu, Kyle Cranmer, D
 <br>
 https://arxiv.org/abs/2006.11287
 <br>
+Our rating: 3 ± 0.83
+
 
 __Week 41 (Oct 7)__
 <br>
