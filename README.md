@@ -52,8 +52,14 @@ Our rating: 3 ± 0.83
 
 __Week 41 (Oct 7)__
 <br>
-__Topic: Explainable AI__
-_- Host: Martin, Marc_
+__Topic: Gaussian Splatting__
+_- Host: Martin_
+<br>
+Scaling Density Functional Theory with Gaussian Splatting
+<br>
+Andrés Guzmán-Cordero, Cindy Zhang, Majdi Hassan, Marta Skreta, Kirill Neklyudov, Matija Medvidović
+<br>
+https://arxiv.org/abs/2609.31483
 
 __Week 43 (Oct 21)__
 <br>
