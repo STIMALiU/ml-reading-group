@@ -36,6 +36,9 @@ Randall Balestriero & Yann LeCun
 <br>
 https://arxiv.org/abs/2511.08544
 
+Our rating: 2.5 ± 0.5
+
+
 __Week 39 (Sep 23)__
 <br>
 __Topic: Explainable AI__
@@ -60,6 +63,9 @@ Scaling Density Functional Theory with Gaussian Splatting
 Andrés Guzmán-Cordero, Cindy Zhang, Majdi Hassan, Marta Skreta, Kirill Neklyudov, Matija Medvidović
 <br>
 https://arxiv.org/abs/2609.31483
+
+Our rating: 2.66 ± 0.74
+
 
 __Week 43 (Oct 21)__
 <br>
