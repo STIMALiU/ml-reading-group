@@ -69,7 +69,7 @@ Our rating: 2.66 ± 0.74
 
 __Week 43 (Oct 21)__
 <br>
-Location TBA
+Location **Alan Turing**
 <br>
 __Topic: Quantum Machine Learning__
 _- Host: Martin, Erik R_
