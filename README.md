@@ -73,6 +73,18 @@ Location TBA
 <br>
 __Topic: Quantum Machine Learning__
 _- Host: Martin, Erik R_
+<br>
+Is Quantum Advantage the Right Goal for Quantum Machine Learning?
+<br>
+Maria Schuld and Nathan Killoran
+<br>
+https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.3.030101
+<br>
+also available at
+<br>
+https://arxiv.org/pdf/2203.01340
+<br>
+
 
 __Week 45 (Nov 4)__
 <br>
