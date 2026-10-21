@@ -85,6 +85,8 @@ also available at
 https://arxiv.org/pdf/2203.01340
 <br>
 
+Our rating: 1.83 ± 0.37
+
 
 __Week 45 (Nov 4)__
 <br>
