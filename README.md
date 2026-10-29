@@ -92,6 +92,13 @@ __Week 45 (Nov 4)__
 <br>
 __Topic: Gaussian processes__
 _- Host: Adi, Leo_
+<br>
+Conditioning Gaussian Processes on Almost Anything
+<br>
+Henry Moss, Lachlan Astfalck, Thomas Cowperthwaite, Colin Doumont, Sam Willis, Philipp Hennig, Christopher Nemeth, Andrew Zammit-Mangion
+<br>
+https://arxiv.org/abs/2605.21041
+<br>
 
 __Week 47 (Nov 18)__
 <br>
