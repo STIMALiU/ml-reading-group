@@ -100,6 +100,8 @@ Henry Moss, Lachlan Astfalck, Thomas Cowperthwaite, Colin Doumont, Sam Willis, P
 https://arxiv.org/abs/2605.21041
 <br>
 
+Our rating: 4.14 ± 0.64
+
 __Week 47 (Nov 18)__
 <br>
 __Topic: Position papers__
