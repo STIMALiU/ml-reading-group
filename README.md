@@ -106,6 +106,15 @@ __Week 47 (Nov 18)__
 <br>
 __Topic: Position papers__
 _- Host: Erik W, Adi_
+<br>
+The Costs of Pretending That There Are Data-Generating Probability Distributions in the Social World.
+<br>
+Benedikt Höltgen, Robert C. Williamson
+<br>
+https://dl.acm.org/doi/abs/10.1145/3805689.3806478
+<br>
+
+
 
 __Week 49 (Dec 2)__
 <br>
