@@ -120,6 +120,12 @@ __Week 49 (Dec 2)__
 <br>
 __Topic: Machine Learning for point clouds__
 _- Host: Leo, Lisa_
+<br>
+Point-set Distances for Learning Representations of 3D Point Clouds
+<br>
+Nguyen et al.
+<br>
+https://arxiv.org/abs/2102.04014
 
 __Week 51 (Dec 16)__
 <br>
